@@ -24,6 +24,20 @@ def getQuestions(participant_id, language):
     return jsonify(list(questions.values()))
 
 
+@app.route('/submitUserData', methods=['POST'])
+def submitUserData():
+    if not request.json or 'user_id' not in request.json:
+        abort(400)
+
+    user_file = __DATABASE__ + '/additional_data/' + str(request.json['user_id']) + '.json'
+    pathlib.Path(user_file).parent.mkdir(parents=True, exist_ok=True)
+
+    with open(user_file, 'w') as f:
+        json.dump(request.json, f)
+
+    return Response(status=200)
+
+
 @app.route('/submitAnswers', methods=['POST'])
 def submitAnswers():
     if not request.json or 'user_id' not in request.json:
