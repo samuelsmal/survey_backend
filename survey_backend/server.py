@@ -27,11 +27,21 @@ def submitUserData():
     if not request.json or 'user_id' not in request.json:
         abort(400)
 
-    user_file = __DATABASE__ + '/additional_data/' + str(request.json['user_id']) + '.json'
-    pathlib.Path(user_file).parent.mkdir(parents=True, exist_ok=True)
+    user_file_path = f"{__DATABASE__}/additional_data/{request.json['user_id']}.json"
+    user_file = pathlib.Path(user_file_path)
+    user_file.parent.mkdir(parents=True, exist_ok=True)
+
+    print(f"submitUserData getting {request.json}\n\n")
+
+    if user_file.is_file():
+        with open(user_file, 'r') as f:
+            user_data = json.load(f)
+            user_data['data'] += [request.json]
+    else:
+        user_data = {'user_id': request.json['user_id'], 'data': [request.json]}
 
     with open(user_file, 'w') as f:
-        json.dump(request.json, f)
+        json.dump(user_data, f)
 
     return Response(status=200)
 
@@ -40,13 +50,13 @@ def submitUserData():
 def submitAnswers():
     if not request.json or 'user_id' not in request.json:
         abort(400)
-    #print(request.json)
 
-    user_file = __DATABASE__ + '/answers/' + str(request.json['user_id']) + '.json'
-    pathlib.Path(user_file).parent.mkdir(parents=True, exist_ok=True)
+    file_path = f"{__DATABASE__}/answers/{request.json['user_id']}.json"
+    file = pathlib.Path(file_path)
+    file.parent.mkdir(parents=True, exist_ok=True)
 
-    if pathlib.Path(user_file).is_file():
-        with open(user_file, 'r') as f:
+    if file.is_file():
+        with open(file, 'r') as f:
             try:
                 old_answers = json.load(f)
                 if old_answers == '':
@@ -56,7 +66,7 @@ def submitAnswers():
     else:
         old_answers = []
 
-    with open(user_file, 'w') as f:
+    with open(file, 'w') as f:
         f.write(json.dumps(old_answers + [request.json['answers']]))
 
     return Response(status=200)
