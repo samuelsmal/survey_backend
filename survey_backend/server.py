@@ -14,12 +14,10 @@ CORS(app)
 def getQuestions(participant_id, language):
     # TODO do the selection
     # returns a json array of the questions in the order for this participant
-    print(participant_id)
     questions = {}
-    for question_type, language in product(['ct'], ['fr']):
+    for question_type, language in product(['dt'], ['fr']):
         with open(f'{__DATABASE__}/{question_type}_{language}.json', 'r') as f:
             questions[question_type] = json.load(f)
-
 
     return jsonify(list(questions.values()))
 
