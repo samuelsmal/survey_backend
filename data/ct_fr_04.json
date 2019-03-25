@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ct_1",
+    "question": "vacances / détente",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_2",
+    "question": "géologue / dermatologue",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_3",
+    "question": "pilote / navigateur",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_4",
+    "question": "CERVEAU est à TÊTE ce que COEUR est à ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_5",
+    "question": "FLORE est à VÉGÉTALES ce que FAUNE est à ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_6",
+    "question": "KILO est à MILLE ce que HECTO est à …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_7",
+    "question": "BANDAGE est à BLESSURE ce que FICELLE est à …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_8",
+    "question": "PNEU est à VÉLO ce que CORDE est à ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_9",
+    "question": "CRAYON est à ÉCRIRE ce que MÈTRE est à ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_10",
+    "question": "PEDIATRE est à … ce que … est à PIED",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_11",
+    "question": "BALISER est à .. ce que RUINER est à …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_12",
+    "question": "BIEN-ÊTRE est à … ce que ORDRE est à ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_13",
+    "question": "ÉCRIVAIN / ROMAN , … / …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_14",
+    "question": "BELLIQUEUX est à … ce que … est à PACIFIQUE",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_15",
+    "question": "LIVIDE est à .. ce que CHARNU est à ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_16",
+    "question": "… est à claustrophobie ce que rougie est à …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_17",
+    "question": "plume / laine",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_18",
+    "question": "ATHÉE est à CROYANCE ce que INDIGENT est à ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_19",
+    "question": "PERFIDE / INSIDIEUX , … / ....",
+    "possible_answers": []
+  }
+]

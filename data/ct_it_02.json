@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ct_1",
+    "question": "ANNO sta a MESE come",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_2",
+    "question": "AUTORE sta a REDATTORE come",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_3",
+    "question": "FRASE sta a ___ come  SCALA sta a ___",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_4",
+    "question": "QUADRATO sta a RETTANGOLO come CERCHIO sta a",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_5",
+    "question": "ANULARE sta a MANO come UNGHIA sta a",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_6",
+    "question": "GALLINA sta a GALLO come GIUMENTA sta a",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_7",
+    "question": "GRAMMO sta a MASSA come ORA sta a",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_8",
+    "question": "Anagramma",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_9",
+    "question": "FORTEZZA sta a DIFESA come TEATRO sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_10",
+    "question": "___ sta a GESSO come TELA sta a ___",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_11",
+    "question": "GAMBA sta a ___ come ___ sta a PETTINE",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_12",
+    "question": "PELLE sta a ___ come CERVELLO sta a ___",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_13",
+    "question": "ABITARE sta a RISIEDERE come",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_14",
+    "question": "INCISIONE sta a BISTURI come SOLCO sta a",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_15",
+    "question": "ULIVO sta a ___ come ___ sta a PACE",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_16",
+    "question": "___ sta a AMBASCIATORE come CAPPUCCIO sta a ___",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_17",
+    "question": "PERSEVERANZA / AVARIZIA",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_18",
+    "question": "RIGOROSO sta a INDULGENTE come GIUNONICO sta a",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_19",
+    "question": "DISPERSIONE sta a DISSIPAZIONE come",
+    "possible_answers": []
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ct_1",
+    "question": "vacanze / riposo",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_2",
+    "question": "geologo / dermatologo",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_3",
+    "question": "pilota / navigatore",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_4",
+    "question": "CERVELLO sta a TESTA come CUORE sta a...",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_5",
+    "question": "FLORA sta a VEGETALI come FAUNA sta a  ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_6",
+    "question": "CHILO sta a MILLE come ETTO sta a…",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_7",
+    "question": "BENDA sta a FERITA come  SPAGO sta a ...",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_8",
+    "question": "RUOTA sta a BICI come CORDA sta a",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_9",
+    "question": "MATITA sta a SCRIVERE come METRO sta a",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_10",
+    "question": "PEDIATRA  sta a ___ come ___ sta a PIEDE",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_11",
+    "question": "Anagramma",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_12",
+    "question": "BENESSERE sta a ___ come ORDINE sta a ___",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_13",
+    "question": "SCRITTORE sta a ROMANZO come",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_14",
+    "question": "BELLICOSO sta a … come .. sta a PACIFICO",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_15",
+    "question": "LIVIDO sta a … come CARNOSO sta a ...",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_16",
+    "question": "… sta a claustrofobico come arrossito sta a  …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_17",
+    "question": "piuma / lana",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_18",
+    "question": "ATEO sta a CREDENZA come INDIGENTE sta a ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_19",
+    "question": "INFIDO / INSIDIOSO , … / ....",
+    "possible_answers": []
+  }
+]

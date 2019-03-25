@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ct_1",
+    "question": "pianura : montagna",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_2",
+    "question": "presente : passato",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_3",
+    "question": "vaso : scarpa ***",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_4",
+    "question": "VUOTO sta a PIENO come SERA sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_5",
+    "question": "PITTORE sta a PENNELLO come SCRIBA sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_6",
+    "question": "MELA sta a FRUTTO come MELO sta a…",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_7",
+    "question": "CAMICIA sta a TESSUTO come PNEUMATICO sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_8",
+    "question": "OSCURO sta a NOTTE come CHIARO sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_9",
+    "question": "VELENO sta a MORTE come REATO sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_10",
+    "question": "___ sta a BARCA come BENZINA sta a ___",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_11",
+    "question": "ORNITOLOGO sta a ___ come ___ sta a FRUTTA",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_12",
+    "question": "BANALE sta a ___ come SAGGIO sta a ___",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_13",
+    "question": "Intraducibile",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_14",
+    "question": "TANGENTE sta a TOCCARE come SECANTE sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_15",
+    "question": "PRENDERE sta a ___ come ___ sta a LAVARE",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_16",
+    "question": "___ sta a MODESTO\t come PLEBEO sta a ___",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_18",
+    "question": "CONFERMA sta a ACCORDO come CONNIVENZA/COMPLICITÀ sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_19",
+    "question": "FILATELICO sta a TIMBRO come ___ sta a ___",
+    "possible_answers": []
+  }
+]

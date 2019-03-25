@@ -14,12 +14,26 @@ CORS(app)
 def getQuestions(participant_id, language):
     # TODO do the selection
     # returns a json array of the questions in the order for this participant
-    questions = {}
-    for question_type, language in product(['dt'], ['fr']):
-        with open(f'{__DATABASE__}/{question_type}_{language}.json', 'r') as f:
-            questions[question_type] = json.load(f)
+    try:
+        with open(__DATABASE__ + '/user_assigments.json', 'r') as f:
+            user_assigments = json.load(f)[str(participant_id)]
+    except KeyError as e:
+        print("error with getting questions {participant_id} {language}")
 
-    return jsonify(list(questions.values()))
+        abort(400)
+
+    questions = []
+
+    # TODO dt choice?
+    for ct_choice, dt_choice in zip(user_assigments['questions'], [0, 0, 0, 0]):
+        with open(f'{__DATABASE__}/ct_{language}_{ct_choice:0>2}.json', 'r') as f:
+            questions += [json.load(f)]
+
+        with open(f'{__DATABASE__}/dt_{language}.json', 'r') as f:
+            questions += [json.load(f)]
+
+    return jsonify({'questions': questions,
+                    'music_order': user_assigments['music_order']})
 
 
 @app.route('/submitUserData', methods=['POST'])

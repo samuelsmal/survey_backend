@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ct_1",
+    "question": "animal / cage",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_2",
+    "question": "parents / enfants",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_3",
+    "question": "muscat / conférence",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_4",
+    "question": "ENVOYÉ est à REÇU ce que LANCÉ est à…",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_5",
+    "question": "RAISIN est à VIN ce que BLÉ est à…",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_6",
+    "question": "PETIT est à GRAND ce que BIENVEILLANT est à …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_7",
+    "question": "AIMER est à MAIRE ce que CHINE est à …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_8",
+    "question": "LETTRE est à MOT ce que PHRASE est à …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_9",
+    "question": "CARPE est à MUET ce que TAUPE est à ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_10",
+    "question": "ARTIFICIEL est à … ce que … est à PROFOND",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_11",
+    "question": "CUISINER est à.. ce que LAVER est à",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_12",
+    "question": "NOUER est à .. ce que GAGNER est à..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_13",
+    "question": "GOLF / DEBOUT , … / …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_14",
+    "question": "HARICOT est à … ce que … est à POIRES",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_15",
+    "question": "EMPATHIE est à .. ce que ANIMOSITÉ est à…",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_16",
+    "question": "… est à voix ce qu’orthophoniste est à …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_17",
+    "question": "enclume / métacarpe",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_18",
+    "question": "ÉCOLOGISTE est à ENVIRONNEMENT ce que ENTOMOLOGISTE est à ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_19",
+    "question": "VERSATILE / CONSTANT , … / …",
+    "possible_answers": []
+  }
+]

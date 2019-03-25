@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ct_1",
+    "question": "animale / gabbia",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_2",
+    "question": "genitori / bambini",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_3",
+    "question": "moscato / conferenza",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_4",
+    "question": "MANDATO sta a RICEVUTO come LANCIATO sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_5",
+    "question": "UVA sta a VINO come GRANO sta a…",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_6",
+    "question": "PICCOLO sta a GRANDE come BENEVOLO sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_8",
+    "question": "LETTERA sta a PAROLA come FRASE sta a …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_9",
+    "question": "PESCE sta a MUTO come TALPA sta a ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_10",
+    "question": "ARTIFICIALE sta a … come … sta a PROFONDO",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_11",
+    "question": "CUCINARE sta a… come LAVARE sta a...",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_12",
+    "question": "ANNODARE sta a… come VINCERE sta a...",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_13",
+    "question": "GOLF / IN PIEDI, .../ …",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_15",
+    "question": "EMPATIA sta a .. come ANIMOSITA sta a…",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_16",
+    "question": "… sta a voce come ortofonista sta a…",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_17",
+    "question": "incudine / metacarpo",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_18",
+    "question": "ECOLOGISTA sta a  AMBIENTE come ENTOMOLOGO sta a ..",
+    "possible_answers": []
+  },
+  {
+    "id": "ct_19",
+    "question": "VERSATILE / COSTANTE , … / …",
+    "possible_answers": []
+  }
+]
