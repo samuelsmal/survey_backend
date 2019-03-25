@@ -4,7 +4,7 @@
 # <codecell>
 
 # fr 01
-raw = """1. plaine / montagne
+raw_fr_01 = """1. plaine / montagne
     1. haut / petit
     2. bas / haut +
     3. herbe / eau
@@ -130,7 +130,7 @@ raw = """1. plaine / montagne
 # <codecell>
 
 # fr 02
-raw="""1. année / mois
+raw_fr_02="""1. année / mois
     a. roman / chapitre +
     b. bissextile / été
     c. pierre / pont
@@ -255,8 +255,8 @@ raw="""1. année / mois
 
 # <codecell>
 
-# fr
-raw="""1. animal / cage
+# fr 03
+raw_fr_03 ="""1. animal / cage
     a. homme / jardin
     b. homme / prison +
     c. homme / clotûre
@@ -383,8 +383,8 @@ raw="""1. animal / cage
 
 # <codecell>
 
-# fr
-raw="""1. vacances / détente
+# fr 04
+raw_fr_04="""1. vacances / détente
     a. été / hiver
     b. travail / occupation +
     c. soleil / sport
@@ -512,7 +512,7 @@ raw="""1. vacances / détente
 # <codecell>
 
 # it 1
-raw="""1. pianura : montagna
+raw_it_01="""1. pianura : montagna
     a. alto : piccolo
     b. basso : alto +
     c. erba : acqua
@@ -627,7 +627,7 @@ raw="""1. pianura : montagna
 # <codecell>
 
 # it 2
-raw="""1. ANNO sta a MESE come 
+raw_it_02="""1. ANNO sta a MESE come 
     a. ROMANZO sta a CAPITOLO +
     b. BISESTILE sta a ESTATE
     c. PIETRA sta a PONTE
@@ -747,7 +747,7 @@ raw="""1. ANNO sta a MESE come
 # <codecell>
 
 # it 3
-raw = """1. animale / gabbia
+raw_it_03 = """1. animale / gabbia
     a. uomo /giardino jardin
     b. uomo / prigione +
     c. uomo / chiusura
@@ -861,7 +861,7 @@ raw = """1. animale / gabbia
 # <codecell>
 
 # it 4
-raw = """1. vacanze / riposo
+raw_it_04 = """1. vacanze / riposo
     a. estate / inverno
     b. lavoro / attività +
     c. sole / sport
@@ -993,6 +993,9 @@ def parse_questions(raw, question_type):
 
 
     cur_question = None
+    
+    answer_regex = r'^\s+(\d{1,2}|[a-z]{1,2})\. (.*)'
+    
 
     for l in raw.split('\n'):
         if re.match('^\d{1,2}', l):
@@ -1002,8 +1005,8 @@ def parse_questions(raw, question_type):
             match = re.match('^(\d{1,2}|\w{1,2})\. (.*)', l)
             cur_question['id'] = f"{question_type}_{match[1]}"
             cur_question['question'] = match[2].strip()
-        if re.match('^\s+\d{1,2}', l):
-            match = re.match('^\s+(\d{1,2}|\w{1,2})\. (.*)', l)
+        if re.match(answer_regex, l):
+            match = re.match(answer_regex, l)
             cur_question['possible_answers'] += [{'id': match[1],
                                                   'answer': match[2].split('+')[0].strip()}]
 
@@ -1013,16 +1016,18 @@ def parse_questions(raw, question_type):
 
 # <codecell>
 
-question_type = 'ct'
-language = 'fr'
-_id = 2
-with open(f'../data/{question_type}_{language}_{_id:0>2}.json', 'w') as f:
-    print(parse_questions(raw, 'ct'))
-    #json.dump(parse_questions(raw, 'ct'), f, ensure_ascii=False, indent='  ')
+raws = {
+    'fr': [raw_fr_01, raw_fr_02, raw_fr_03, raw_fr_04],
+    'it': [raw_it_01, raw_it_02, raw_it_03, raw_it_04]
+}
 
 # <codecell>
 
-a = [1, 3, 4, 2]
+question_type = 'ct'
+for language, questions in raws.items():
+    for _id, q in enumerate(questions):
+        with open(f'../data/{question_type}_{language}_{_id + 1:0>2}.json', 'w') as f:
+            json.dump(parse_questions(raw, 'ct'), f, ensure_ascii=False, indent='  ')
 
 # <codecell>
 

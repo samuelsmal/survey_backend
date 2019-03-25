@@ -1,97 +1,524 @@
 [
   {
     "id": "ct_1",
-    "question": "vacanze / riposo",
-    "possible_answers": []
+    "question": "année / mois",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "roman / chapitre"
+      },
+      {
+        "id": "b",
+        "answer": "bissextile / été"
+      },
+      {
+        "id": "c",
+        "answer": "pierre / pont"
+      },
+      {
+        "id": "d",
+        "answer": "je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_2",
-    "question": "geologo / dermatologo",
-    "possible_answers": []
+    "question": "auteur / rédacteur",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "roman / éditorial"
+      },
+      {
+        "id": "b",
+        "answer": "largeur / imprimeur"
+      },
+      {
+        "id": "c",
+        "answer": "livre / volume"
+      },
+      {
+        "id": "d",
+        "answer": "je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_3",
-    "question": "pilota / navigatore",
-    "possible_answers": []
+    "question": "phrase / gamme",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "livre / piano"
+      },
+      {
+        "id": "b",
+        "answer": "mot / note"
+      },
+      {
+        "id": "c",
+        "answer": "discours / sonate"
+      },
+      {
+        "id": "d",
+        "answer": "je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_4",
-    "question": "CERVELLO sta a TESTA come CUORE sta a...",
-    "possible_answers": []
+    "question": "CARRÉ est à RECTANGLE ce que CERCLE est à ..",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Sphère"
+      },
+      {
+        "id": "b",
+        "answer": "Courbe"
+      },
+      {
+        "id": "c",
+        "answer": "Diamètre"
+      },
+      {
+        "id": "d",
+        "answer": "Ellipse"
+      },
+      {
+        "id": "e",
+        "answer": "Rayon"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_5",
-    "question": "FLORA sta a VEGETALI come FAUNA sta a  ..",
-    "possible_answers": []
+    "question": "ANNULAIRE est à MAIN ce que ONGLE est à ..",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Doigt"
+      },
+      {
+        "id": "b",
+        "answer": "Vernis"
+      },
+      {
+        "id": "c",
+        "answer": "Peau"
+      },
+      {
+        "id": "d",
+        "answer": "Coupe"
+      },
+      {
+        "id": "e",
+        "answer": "Poil"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_6",
-    "question": "CHILO sta a MILLE come ETTO sta a…",
-    "possible_answers": []
+    "question": "POULE est à COQ ce que JUMENT est à ...",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Poulain"
+      },
+      {
+        "id": "b",
+        "answer": "Âne"
+      },
+      {
+        "id": "c",
+        "answer": "Ferme"
+      },
+      {
+        "id": "d",
+        "answer": "Pâture"
+      },
+      {
+        "id": "e",
+        "answer": "Etalon"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_7",
-    "question": "BENDA sta a FERITA come  SPAGO sta a ...",
-    "possible_answers": []
+    "question": "GRAMME est à MASSE ce que HEURE est à …",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Montre"
+      },
+      {
+        "id": "b",
+        "answer": "Temps"
+      },
+      {
+        "id": "c",
+        "answer": "Minute"
+      },
+      {
+        "id": "d",
+        "answer": "Semaine"
+      },
+      {
+        "id": "e",
+        "answer": "Saison"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_8",
-    "question": "RUOTA sta a BICI come CORDA sta a",
-    "possible_answers": []
+    "question": "BEAU est à AUBE ce que CHIEN est à ..",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Réveil"
+      },
+      {
+        "id": "b",
+        "answer": "Aboie"
+      },
+      {
+        "id": "c",
+        "answer": "Chine"
+      },
+      {
+        "id": "d",
+        "answer": "Maître"
+      },
+      {
+        "id": "e",
+        "answer": "Ami"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_9",
-    "question": "MATITA sta a SCRIVERE come METRO sta a",
-    "possible_answers": []
+    "question": "REMPART est à PROTECTION ce que THÉÂTRE est à …",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Public"
+      },
+      {
+        "id": "b",
+        "answer": "Pièce"
+      },
+      {
+        "id": "c",
+        "answer": "Divertissement"
+      },
+      {
+        "id": "d",
+        "answer": "Comédie"
+      },
+      {
+        "id": "e",
+        "answer": "Acteur"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_10",
-    "question": "PEDIATRA  sta a ___ come ___ sta a PIEDE",
-    "possible_answers": []
+    "question": "… est à craie ce que toile est à …",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "pastel / godets"
+      },
+      {
+        "id": "b",
+        "answer": "tableau / pinceau"
+      },
+      {
+        "id": "c",
+        "answer": "pinceau / gouache"
+      },
+      {
+        "id": "d",
+        "answer": "je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_11",
-    "question": "Anagramma",
-    "possible_answers": []
+    "question": "BRANCHE est à … ce que … est à PEIGNE",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Poisson / Manche"
+      },
+      {
+        "id": "b",
+        "answer": "Activité / Pointe"
+      },
+      {
+        "id": "c",
+        "answer": "Chemin / Cheveu"
+      },
+      {
+        "id": "d",
+        "answer": "Division / Brossage"
+      },
+      {
+        "id": "e",
+        "answer": "Lunette / Dent"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_12",
-    "question": "BENESSERE sta a ___ come ORDINE sta a ___",
-    "possible_answers": []
+    "question": "PEAU est à .. ce que CERVEAU est à..",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Urologue/Cardiologue"
+      },
+      {
+        "id": "b",
+        "answer": "Dermatologue/Urologue"
+      },
+      {
+        "id": "c",
+        "answer": "Pneumologue/Cardiologue"
+      },
+      {
+        "id": "d",
+        "answer": "Dermatologue/ Neurologue"
+      },
+      {
+        "id": "e",
+        "answer": "Gastro-entérologue/Neurologue"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_13",
-    "question": "SCRITTORE sta a ROMANZO come",
-    "possible_answers": []
+    "question": "HABITER / RÉSIDER , … / …",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Distraire / Emmener"
+      },
+      {
+        "id": "b",
+        "answer": "Habiter / Changer"
+      },
+      {
+        "id": "c",
+        "answer": "Offrir / Donner"
+      },
+      {
+        "id": "d",
+        "answer": "Sécher / Repasser"
+      },
+      {
+        "id": "e",
+        "answer": "Manger / Courir"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_14",
-    "question": "BELLICOSO sta a … come .. sta a PACIFICO",
-    "possible_answers": []
+    "question": "INCISION est à BISTOURI ce que SILLON est à",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Tranchée"
+      },
+      {
+        "id": "b",
+        "answer": "Terre"
+      },
+      {
+        "id": "c",
+        "answer": "Charrue"
+      },
+      {
+        "id": "d",
+        "answer": "Rigole"
+      },
+      {
+        "id": "e",
+        "answer": "Champs"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_15",
-    "question": "LIVIDO sta a … come CARNOSO sta a ...",
-    "possible_answers": []
+    "question": "OLIVIER est à … ce que … est à PAIX",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Arbre / Raison"
+      },
+      {
+        "id": "b",
+        "answer": "Huile / Travail"
+      },
+      {
+        "id": "c",
+        "answer": "Prénom / Guerre"
+      },
+      {
+        "id": "d",
+        "answer": "Longévité / Colombe"
+      },
+      {
+        "id": "e",
+        "answer": "Joie / Traité"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_16",
-    "question": "… sta a claustrofobico come arrossito sta a  …",
-    "possible_answers": []
+    "question": "… est à ambassadeur ce qu’opercule est à …",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "ambassade / monticule"
+      },
+      {
+        "id": "b",
+        "answer": "poste / poisson"
+      },
+      {
+        "id": "c",
+        "answer": "plénipotentiaire / couvercle"
+      },
+      {
+        "id": "d",
+        "answer": "je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_17",
-    "question": "piuma / lana",
-    "possible_answers": []
+    "question": "persévérance / avarice",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "pugnacité / bonté"
+      },
+      {
+        "id": "b",
+        "answer": "acharnement / dilapider"
+      },
+      {
+        "id": "c",
+        "answer": "versatilité / générosité"
+      },
+      {
+        "id": "d",
+        "answer": "je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_18",
-    "question": "ATEO sta a CREDENZA come INDIGENTE sta a ..",
-    "possible_answers": []
+    "question": "RIGOUREUX est à INDULGENT ce que PLANTUREUX est à..",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Chétif"
+      },
+      {
+        "id": "b",
+        "answer": "Chauvin"
+      },
+      {
+        "id": "c",
+        "answer": "Charnu"
+      },
+      {
+        "id": "d",
+        "answer": "Cholérique"
+      },
+      {
+        "id": "e",
+        "answer": "Chaleureux"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   },
   {
     "id": "ct_19",
-    "question": "INFIDO / INSIDIOSO , … / ....",
-    "possible_answers": []
+    "question": "DISPERSION / DISSIPATION , … / …",
+    "possible_answers": [
+      {
+        "id": "a",
+        "answer": "Augmentation / Diminution"
+      },
+      {
+        "id": "b",
+        "answer": "Propension / Inclination"
+      },
+      {
+        "id": "c",
+        "answer": "Accumulation / Digestion"
+      },
+      {
+        "id": "d",
+        "answer": "Création / Gestion"
+      },
+      {
+        "id": "e",
+        "answer": "Communion / Fonction"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
+      }
+    ]
   }
 ]
