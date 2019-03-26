@@ -1027,7 +1027,7 @@ question_type = 'ct'
 for language, questions in raws.items():
     for _id, q in enumerate(questions):
         with open(f'../data/{question_type}_{language}_{_id + 1:0>2}.json', 'w') as f:
-            json.dump(parse_questions(raw, 'ct'), f, ensure_ascii=False, indent='  ')
+            json.dump(parse_questions(q, 'ct'), f, ensure_ascii=False, indent='  ')
 
 # <codecell>
 
@@ -1035,4 +1035,8 @@ ls ../data/
 
 # <codecell>
 
+!head -n10 ../data/ct_fr_01.json
 
+# <codecell>
+
+!head -n10 ../data/ct_fr_02.json

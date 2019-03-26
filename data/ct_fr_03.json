@@ -1,19 +1,19 @@
 [
   {
     "id": "ct_1",
-    "question": "année / mois",
+    "question": "animal / cage",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "roman / chapitre"
+        "answer": "homme / jardin"
       },
       {
         "id": "b",
-        "answer": "bissextile / été"
+        "answer": "homme / prison"
       },
       {
         "id": "c",
-        "answer": "pierre / pont"
+        "answer": "homme / clotûre"
       },
       {
         "id": "d",
@@ -23,19 +23,19 @@
   },
   {
     "id": "ct_2",
-    "question": "auteur / rédacteur",
+    "question": "parents / enfants",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "roman / éditorial"
+        "answer": "famille / école"
       },
       {
         "id": "b",
-        "answer": "largeur / imprimeur"
+        "answer": "enseignants / élèves"
       },
       {
         "id": "c",
-        "answer": "livre / volume"
+        "answer": "cousins / cousines"
       },
       {
         "id": "d",
@@ -45,19 +45,19 @@
   },
   {
     "id": "ct_3",
-    "question": "phrase / gamme",
+    "question": "muscat / conférence",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "livre / piano"
+        "answer": "apéritif / imitation"
       },
       {
         "id": "b",
-        "answer": "mot / note"
+        "answer": "raisin / public"
       },
       {
         "id": "c",
-        "answer": "discours / sonate"
+        "answer": "raisin / poire"
       },
       {
         "id": "d",
@@ -67,27 +67,27 @@
   },
   {
     "id": "ct_4",
-    "question": "CARRÉ est à RECTANGLE ce que CERCLE est à ..",
+    "question": "ENVOYÉ est à REÇU ce que LANCÉ est à…",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Sphère"
+        "answer": "Perdu"
       },
       {
         "id": "b",
-        "answer": "Courbe"
+        "answer": "Jeté"
       },
       {
         "id": "c",
-        "answer": "Diamètre"
+        "answer": "Attrapé"
       },
       {
         "id": "d",
-        "answer": "Ellipse"
+        "answer": "Lu"
       },
       {
         "id": "e",
-        "answer": "Rayon"
+        "answer": "Cassé"
       },
       {
         "id": "f",
@@ -97,27 +97,27 @@
   },
   {
     "id": "ct_5",
-    "question": "ANNULAIRE est à MAIN ce que ONGLE est à ..",
+    "question": "RAISIN est à VIN ce que BLÉ est à…",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Doigt"
+        "answer": "Orge"
       },
       {
         "id": "b",
-        "answer": "Vernis"
+        "answer": "Pain"
       },
       {
         "id": "c",
-        "answer": "Peau"
+        "answer": "Alcool"
       },
       {
         "id": "d",
-        "answer": "Coupe"
+        "answer": "Fruit"
       },
       {
         "id": "e",
-        "answer": "Poil"
+        "answer": "Terre"
       },
       {
         "id": "f",
@@ -127,27 +127,27 @@
   },
   {
     "id": "ct_6",
-    "question": "POULE est à COQ ce que JUMENT est à ...",
+    "question": "PETIT est à GRAND ce que BIENVEILLANT est à …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Poulain"
+        "answer": "Maladroit"
       },
       {
         "id": "b",
-        "answer": "Âne"
+        "answer": "Entreprenant"
       },
       {
         "id": "c",
-        "answer": "Ferme"
+        "answer": "Téméraire"
       },
       {
         "id": "d",
-        "answer": "Pâture"
+        "answer": "Hostile"
       },
       {
         "id": "e",
-        "answer": "Etalon"
+        "answer": "Robuste"
       },
       {
         "id": "f",
@@ -157,27 +157,27 @@
   },
   {
     "id": "ct_7",
-    "question": "GRAMME est à MASSE ce que HEURE est à …",
+    "question": "AIMER est à MAIRE ce que CHINE est à …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Montre"
+        "answer": "Pays"
       },
       {
         "id": "b",
-        "answer": "Temps"
+        "answer": "Chien"
       },
       {
         "id": "c",
-        "answer": "Minute"
+        "answer": "Est"
       },
       {
         "id": "d",
-        "answer": "Semaine"
+        "answer": "Soleil"
       },
       {
         "id": "e",
-        "answer": "Saison"
+        "answer": "Ciel"
       },
       {
         "id": "f",
@@ -187,27 +187,27 @@
   },
   {
     "id": "ct_8",
-    "question": "BEAU est à AUBE ce que CHIEN est à ..",
+    "question": "LETTRE est à MOT ce que PHRASE est à …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Réveil"
+        "answer": "Verbe"
       },
       {
         "id": "b",
-        "answer": "Aboie"
+        "answer": "Interrogation"
       },
       {
         "id": "c",
-        "answer": "Chine"
+        "answer": "Paragraphe"
       },
       {
         "id": "d",
-        "answer": "Maître"
+        "answer": "Expression"
       },
       {
         "id": "e",
-        "answer": "Ami"
+        "answer": "Livre"
       },
       {
         "id": "f",
@@ -217,27 +217,27 @@
   },
   {
     "id": "ct_9",
-    "question": "REMPART est à PROTECTION ce que THÉÂTRE est à …",
+    "question": "CARPE est à MUET ce que TAUPE est à ..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Public"
+        "answer": "Bavard"
       },
       {
         "id": "b",
-        "answer": "Pièce"
+        "answer": "Rusé"
       },
       {
         "id": "c",
-        "answer": "Divertissement"
+        "answer": "Myope"
       },
       {
         "id": "d",
-        "answer": "Comédie"
+        "answer": "Doux"
       },
       {
         "id": "e",
-        "answer": "Acteur"
+        "answer": "Têtu"
       },
       {
         "id": "f",
@@ -247,49 +247,57 @@
   },
   {
     "id": "ct_10",
-    "question": "… est à craie ce que toile est à …",
+    "question": "ARTIFICIEL est à … ce que … est à PROFOND",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "pastel / godets"
+        "answer": "Plante / Mer"
       },
       {
         "id": "b",
-        "answer": "tableau / pinceau"
+        "answer": "Réalité / Fabriqué"
       },
       {
         "id": "c",
-        "answer": "pinceau / gouache"
+        "answer": "Factice / Personnel"
       },
       {
         "id": "d",
-        "answer": "je ne sais pas"
+        "answer": "Naturel / Superficiel"
+      },
+      {
+        "id": "e",
+        "answer": "Ile / Océan"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_11",
-    "question": "BRANCHE est à … ce que … est à PEIGNE",
+    "question": "CUISINER est à.. ce que LAVER est à",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Poisson / Manche"
+        "answer": "Préparer/Acheter"
       },
       {
         "id": "b",
-        "answer": "Activité / Pointe"
+        "answer": "Regarder /Changer"
       },
       {
         "id": "c",
-        "answer": "Chemin / Cheveu"
+        "answer": "Servir/sécher"
       },
       {
         "id": "d",
-        "answer": "Division / Brossage"
+        "answer": "Gagner/Arrêter"
       },
       {
         "id": "e",
-        "answer": "Lunette / Dent"
+        "answer": "Cuire/Arranger"
       },
       {
         "id": "f",
@@ -299,27 +307,27 @@
   },
   {
     "id": "ct_12",
-    "question": "PEAU est à .. ce que CERVEAU est à..",
+    "question": "NOUER est à .. ce que GAGNER est à..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Urologue/Cardiologue"
+        "answer": "Lier/Perdre"
       },
       {
         "id": "b",
-        "answer": "Dermatologue/Urologue"
+        "answer": "Attacher/Triompher"
       },
       {
         "id": "c",
-        "answer": "Pneumologue/Cardiologue"
+        "answer": "Défaire/Encaisser"
       },
       {
         "id": "d",
-        "answer": "Dermatologue/ Neurologue"
+        "answer": "CHavirer/Percevoir"
       },
       {
         "id": "e",
-        "answer": "Gastro-entérologue/Neurologue"
+        "answer": "Noeud/Perte"
       },
       {
         "id": "f",
@@ -329,27 +337,27 @@
   },
   {
     "id": "ct_13",
-    "question": "HABITER / RÉSIDER , … / …",
+    "question": "GOLF / DEBOUT , … / …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Distraire / Emmener"
+        "answer": "Ski / Tailleur"
       },
       {
         "id": "b",
-        "answer": "Habiter / Changer"
+        "answer": "Tennis / Genou"
       },
       {
         "id": "c",
-        "answer": "Offrir / Donner"
+        "answer": "Cheval / Califourchon"
       },
       {
         "id": "d",
-        "answer": "Sécher / Repasser"
+        "answer": "Natation / Assis"
       },
       {
         "id": "e",
-        "answer": "Manger / Courir"
+        "answer": "Escrime / Allongé"
       },
       {
         "id": "f",
@@ -359,27 +367,27 @@
   },
   {
     "id": "ct_14",
-    "question": "INCISION est à BISTOURI ce que SILLON est à",
+    "question": "HARICOT est à … ce que … est à POIRES",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Tranchée"
+        "answer": "Vert / Pomme"
       },
       {
         "id": "b",
-        "answer": "Terre"
+        "answer": "Chariot / Espoir"
       },
       {
         "id": "c",
-        "answer": "Charrue"
+        "answer": "Boîtes / Conserve"
       },
       {
         "id": "d",
-        "answer": "Rigole"
+        "answer": "Légume / Dessert"
       },
       {
         "id": "e",
-        "answer": "Champs"
+        "answer": "Fin / Molle"
       },
       {
         "id": "f",
@@ -389,27 +397,27 @@
   },
   {
     "id": "ct_15",
-    "question": "OLIVIER est à … ce que … est à PAIX",
+    "question": "EMPATHIE est à .. ce que ANIMOSITÉ est à…",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Arbre / Raison"
+        "answer": "Maladroit/Joie"
       },
       {
         "id": "b",
-        "answer": "Huile / Travail"
+        "answer": "Égoïsme/Haine"
       },
       {
         "id": "c",
-        "answer": "Prénom / Guerre"
+        "answer": "Narcissisme/Antipathie"
       },
       {
         "id": "d",
-        "answer": "Longévité / Colombe"
+        "answer": "Amour/Grossier"
       },
       {
         "id": "e",
-        "answer": "Joie / Traité"
+        "answer": "Compassion/Hostilité"
       },
       {
         "id": "f",
@@ -419,19 +427,19 @@
   },
   {
     "id": "ct_16",
-    "question": "… est à ambassadeur ce qu’opercule est à …",
+    "question": "… est à voix ce qu’orthophoniste est à …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "ambassade / monticule"
+        "answer": "direction / rigueur"
       },
       {
         "id": "b",
-        "answer": "poste / poisson"
+        "answer": "timbre / patient"
       },
       {
         "id": "c",
-        "answer": "plénipotentiaire / couvercle"
+        "answer": "phoniatre / diction"
       },
       {
         "id": "d",
@@ -441,19 +449,19 @@
   },
   {
     "id": "ct_17",
-    "question": "persévérance / avarice",
+    "question": "enclume / métacarpe",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "pugnacité / bonté"
+        "answer": "forgeron / doigt"
       },
       {
         "id": "b",
-        "answer": "acharnement / dilapider"
+        "answer": "oreille / paume"
       },
       {
         "id": "c",
-        "answer": "versatilité / générosité"
+        "answer": "fer / poisson"
       },
       {
         "id": "d",
@@ -463,27 +471,27 @@
   },
   {
     "id": "ct_18",
-    "question": "RIGOUREUX est à INDULGENT ce que PLANTUREUX est à..",
+    "question": "ÉCOLOGISTE est à ENVIRONNEMENT ce que ENTOMOLOGISTE est à ..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Chétif"
+        "answer": "Maladie"
       },
       {
         "id": "b",
-        "answer": "Chauvin"
+        "answer": "Virus"
       },
       {
         "id": "c",
-        "answer": "Charnu"
+        "answer": "Biologie"
       },
       {
         "id": "d",
-        "answer": "Cholérique"
+        "answer": "Humain"
       },
       {
         "id": "e",
-        "answer": "Chaleureux"
+        "answer": "Insecte"
       },
       {
         "id": "f",
@@ -493,27 +501,27 @@
   },
   {
     "id": "ct_19",
-    "question": "DISPERSION / DISSIPATION , … / …",
+    "question": "VERSATILE / CONSTANT , … / …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Augmentation / Diminution"
+        "answer": "Initial / Primaire"
       },
       {
         "id": "b",
-        "answer": "Propension / Inclination"
+        "answer": "Principal / Primordial"
       },
       {
         "id": "c",
-        "answer": "Accumulation / Digestion"
+        "answer": "Pragmatique / Théorique"
       },
       {
         "id": "d",
-        "answer": "Création / Gestion"
+        "answer": "Amical / Cordial"
       },
       {
         "id": "e",
-        "answer": "Communion / Fonction"
+        "answer": "Abrupte / Raide"
       },
       {
         "id": "f",

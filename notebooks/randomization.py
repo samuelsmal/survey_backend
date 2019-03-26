@@ -7,7 +7,12 @@ import numpy as np
 
 # <codecell>
 
-__TASK_ORDER__ = [1,2,3,4]
+list(range(1, 5))
+
+# <codecell>
+
+__CT_TASK_ORDER__ = list(range(1, 5))
+__DT_TASK_ORDER__ = list(range(1, 14))
 __MUSIC_ORDER__ = ['relax', 'energy', 'nothing']
     
 def generate_user_ids(n):
@@ -25,9 +30,11 @@ def shuffle_music(music_order):
     '''Returns shuffled music_order for specified user'''
     return np.random.permutation(music_order)
 
-def user_task(user_id, tasks=__TASK_ORDER__, music_order=__MUSIC_ORDER__):
+def user_task(user_id, ct_tasks=__CT_TASK_ORDER__, dt_tasks=__DT_TASK_ORDER__, music_order=__MUSIC_ORDER__):
      # the last one is always self chosen
-    return {user_id: {'questions': shuffle_task(tasks).tolist(), 'music_order': shuffle_music(music_order).tolist() + ['nothing']}}
+    return {user_id: {'ct_questions': shuffle_task(ct_tasks).tolist(), 
+                      'dt_questions': shuffle_task(dt_tasks).tolist()[:4],
+                      'music_order': shuffle_music(music_order).tolist() + ['nothing']}}
 
 # <codecell>
 
@@ -36,7 +43,7 @@ assignments = [user_task(i) for i in generate_user_ids(10)]
 
 # <codecell>
 
-list(a.values())
+assignments
 
 # <codecell>
 
@@ -56,4 +63,17 @@ ls ../data/
 
 # <codecell>
 
+!head ../data/dt_en.json
 
+# <codecell>
+
+dt = {}
+
+for l in ['fr', 'it', 'en']:
+    with open('../data/dt_fr.json', 'r') as f:
+        dt[l] = json.load(f)
+
+# <codecell>
+
+for k, v in dt.items():
+    print(len(v))

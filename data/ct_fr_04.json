@@ -1,19 +1,19 @@
 [
   {
     "id": "ct_1",
-    "question": "année / mois",
+    "question": "vacances / détente",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "roman / chapitre"
+        "answer": "été / hiver"
       },
       {
         "id": "b",
-        "answer": "bissextile / été"
+        "answer": "travail / occupation"
       },
       {
         "id": "c",
-        "answer": "pierre / pont"
+        "answer": "soleil / sport"
       },
       {
         "id": "d",
@@ -23,19 +23,19 @@
   },
   {
     "id": "ct_2",
-    "question": "auteur / rédacteur",
+    "question": "géologue / dermatologue",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "roman / éditorial"
+        "answer": "conférencier / médecin"
       },
       {
         "id": "b",
-        "answer": "largeur / imprimeur"
+        "answer": "pierre / peau"
       },
       {
         "id": "c",
-        "answer": "livre / volume"
+        "answer": "géographie / spécialiste"
       },
       {
         "id": "d",
@@ -45,19 +45,19 @@
   },
   {
     "id": "ct_3",
-    "question": "phrase / gamme",
+    "question": "pilote / navigateur",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "livre / piano"
+        "answer": "voiture / marin"
       },
       {
         "id": "b",
-        "answer": "mot / note"
+        "answer": "jet / trimaran"
       },
       {
         "id": "c",
-        "answer": "discours / sonate"
+        "answer": "journal / carte"
       },
       {
         "id": "d",
@@ -67,27 +67,27 @@
   },
   {
     "id": "ct_4",
-    "question": "CARRÉ est à RECTANGLE ce que CERCLE est à ..",
+    "question": "CERVEAU est à TÊTE ce que COEUR est à ..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Sphère"
+        "answer": "Vie"
       },
       {
         "id": "b",
-        "answer": "Courbe"
+        "answer": "Thorax"
       },
       {
         "id": "c",
-        "answer": "Diamètre"
+        "answer": "Poumon"
       },
       {
         "id": "d",
-        "answer": "Ellipse"
+        "answer": "Sang"
       },
       {
         "id": "e",
-        "answer": "Rayon"
+        "answer": "Respiration"
       },
       {
         "id": "f",
@@ -97,27 +97,27 @@
   },
   {
     "id": "ct_5",
-    "question": "ANNULAIRE est à MAIN ce que ONGLE est à ..",
+    "question": "FLORE est à VÉGÉTALES ce que FAUNE est à ..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Doigt"
+        "answer": "Plantes"
       },
       {
         "id": "b",
-        "answer": "Vernis"
+        "answer": "Floraux"
       },
       {
         "id": "c",
-        "answer": "Peau"
+        "answer": "Campagnes"
       },
       {
         "id": "d",
-        "answer": "Coupe"
+        "answer": "Animales"
       },
       {
         "id": "e",
-        "answer": "Poil"
+        "answer": "Nourritures"
       },
       {
         "id": "f",
@@ -127,27 +127,27 @@
   },
   {
     "id": "ct_6",
-    "question": "POULE est à COQ ce que JUMENT est à ...",
+    "question": "KILO est à MILLE ce que HECTO est à …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Poulain"
+        "answer": "Cent"
       },
       {
         "id": "b",
-        "answer": "Âne"
+        "answer": "Millier"
       },
       {
         "id": "c",
-        "answer": "Ferme"
+        "answer": "Dix"
       },
       {
         "id": "d",
-        "answer": "Pâture"
+        "answer": "Million"
       },
       {
         "id": "e",
-        "answer": "Etalon"
+        "answer": "Mille"
       },
       {
         "id": "f",
@@ -157,27 +157,27 @@
   },
   {
     "id": "ct_7",
-    "question": "GRAMME est à MASSE ce que HEURE est à …",
+    "question": "BANDAGE est à BLESSURE ce que FICELLE est à …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Montre"
+        "answer": "Emballer"
       },
       {
         "id": "b",
-        "answer": "Temps"
+        "answer": "Ciseaux"
       },
       {
         "id": "c",
-        "answer": "Minute"
+        "answer": "Coupure"
       },
       {
         "id": "d",
-        "answer": "Semaine"
+        "answer": "Paquet"
       },
       {
         "id": "e",
-        "answer": "Saison"
+        "answer": "Corde"
       },
       {
         "id": "f",
@@ -187,27 +187,27 @@
   },
   {
     "id": "ct_8",
-    "question": "BEAU est à AUBE ce que CHIEN est à ..",
+    "question": "PNEU est à VÉLO ce que CORDE est à ..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Réveil"
+        "answer": "Linge"
       },
       {
         "id": "b",
-        "answer": "Aboie"
+        "answer": "Arc"
       },
       {
         "id": "c",
-        "answer": "Chine"
+        "answer": "Ficelle"
       },
       {
         "id": "d",
-        "answer": "Maître"
+        "answer": "Sauter"
       },
       {
         "id": "e",
-        "answer": "Ami"
+        "answer": "Cou"
       },
       {
         "id": "f",
@@ -217,27 +217,27 @@
   },
   {
     "id": "ct_9",
-    "question": "REMPART est à PROTECTION ce que THÉÂTRE est à …",
+    "question": "CRAYON est à ÉCRIRE ce que MÈTRE est à ..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Public"
+        "answer": "Enseigner"
       },
       {
         "id": "b",
-        "answer": "Pièce"
+        "answer": "Mesurer"
       },
       {
         "id": "c",
-        "answer": "Divertissement"
+        "answer": "Positionner"
       },
       {
         "id": "d",
-        "answer": "Comédie"
+        "answer": "Diriger"
       },
       {
         "id": "e",
-        "answer": "Acteur"
+        "answer": "Disposer"
       },
       {
         "id": "f",
@@ -247,49 +247,57 @@
   },
   {
     "id": "ct_10",
-    "question": "… est à craie ce que toile est à …",
+    "question": "PEDIATRE est à … ce que … est à PIED",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "pastel / godets"
+        "answer": "Main / Pédicure"
       },
       {
         "id": "b",
-        "answer": "tableau / pinceau"
+        "answer": "Homologue / Jambe"
       },
       {
         "id": "c",
-        "answer": "pinceau / gouache"
+        "answer": "Enfant / Podologue"
       },
       {
         "id": "d",
-        "answer": "je ne sais pas"
+        "answer": "Médecin / Humain"
+      },
+      {
+        "id": "e",
+        "answer": "Spécialiste / Course"
+      },
+      {
+        "id": "f",
+        "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_11",
-    "question": "BRANCHE est à … ce que … est à PEIGNE",
+    "question": "BALISER est à .. ce que RUINER est à …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Poisson / Manche"
+        "answer": "Sablier/Uriner"
       },
       {
         "id": "b",
-        "answer": "Activité / Pointe"
+        "answer": "Protéger/ Construire"
       },
       {
         "id": "c",
-        "answer": "Chemin / Cheveu"
+        "answer": "Peur/Jeux"
       },
       {
         "id": "d",
-        "answer": "Division / Brossage"
+        "answer": "Flipper/essayer"
       },
       {
         "id": "e",
-        "answer": "Lunette / Dent"
+        "answer": "Jouer/Réunir"
       },
       {
         "id": "f",
@@ -299,27 +307,27 @@
   },
   {
     "id": "ct_12",
-    "question": "PEAU est à .. ce que CERVEAU est à..",
+    "question": "BIEN-ÊTRE est à … ce que ORDRE est à ..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Urologue/Cardiologue"
+        "answer": "Mauvais/Difficulté"
       },
       {
         "id": "b",
-        "answer": "Dermatologue/Urologue"
+        "answer": "Souffrance/Anarchie"
       },
       {
         "id": "c",
-        "answer": "Pneumologue/Cardiologue"
+        "answer": "Illusion/Rangement"
       },
       {
         "id": "d",
-        "answer": "Dermatologue/ Neurologue"
+        "answer": "Repos/Théocratie"
       },
       {
         "id": "e",
-        "answer": "Gastro-entérologue/Neurologue"
+        "answer": "Soin/Chemin"
       },
       {
         "id": "f",
@@ -329,27 +337,27 @@
   },
   {
     "id": "ct_13",
-    "question": "HABITER / RÉSIDER , … / …",
+    "question": "ÉCRIVAIN / ROMAN , … / …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Distraire / Emmener"
+        "answer": "Chanteur / Musique"
       },
       {
         "id": "b",
-        "answer": "Habiter / Changer"
+        "answer": "Musicien / Parole"
       },
       {
         "id": "c",
-        "answer": "Offrir / Donner"
+        "answer": "Interprète / Partition"
       },
       {
         "id": "d",
-        "answer": "Sécher / Repasser"
+        "answer": "Chorégraphe / Chanson"
       },
       {
         "id": "e",
-        "answer": "Manger / Courir"
+        "answer": "Compositeur / Mélodie"
       },
       {
         "id": "f",
@@ -359,27 +367,27 @@
   },
   {
     "id": "ct_14",
-    "question": "INCISION est à BISTOURI ce que SILLON est à",
+    "question": "BELLIQUEUX est à … ce que … est à PACIFIQUE",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Tranchée"
+        "answer": "Doux / Calme"
       },
       {
         "id": "b",
-        "answer": "Terre"
+        "answer": "Paisible / Violent"
       },
       {
         "id": "c",
-        "answer": "Charrue"
+        "answer": "Dangereux / Effrayant"
       },
       {
         "id": "d",
-        "answer": "Rigole"
+        "answer": "Corsé / Scabreux"
       },
       {
         "id": "e",
-        "answer": "Champs"
+        "answer": "Agité / Éloigné"
       },
       {
         "id": "f",
@@ -389,27 +397,27 @@
   },
   {
     "id": "ct_15",
-    "question": "OLIVIER est à … ce que … est à PAIX",
+    "question": "LIVIDE est à .. ce que CHARNU est à ..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Arbre / Raison"
+        "answer": "Exsangue /Pulpeux"
       },
       {
         "id": "b",
-        "answer": "Huile / Travail"
+        "answer": "Vivant/ Potelé"
       },
       {
         "id": "c",
-        "answer": "Prénom / Guerre"
+        "answer": "Habitable/Agréable"
       },
       {
         "id": "d",
-        "answer": "Longévité / Colombe"
+        "answer": "Complet/Plaisant"
       },
       {
         "id": "e",
-        "answer": "Joie / Traité"
+        "answer": "Inoccupé/Tranchant"
       },
       {
         "id": "f",
@@ -419,19 +427,19 @@
   },
   {
     "id": "ct_16",
-    "question": "… est à ambassadeur ce qu’opercule est à …",
+    "question": "… est à claustrophobie ce que rougie est à …",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "ambassade / monticule"
+        "answer": "clôture / timidité"
       },
       {
         "id": "b",
-        "answer": "poste / poisson"
+        "answer": "ascenseur / éreutophobie"
       },
       {
         "id": "c",
-        "answer": "plénipotentiaire / couvercle"
+        "answer": "peur / angoisse"
       },
       {
         "id": "d",
@@ -441,19 +449,19 @@
   },
   {
     "id": "ct_17",
-    "question": "persévérance / avarice",
+    "question": "plume / laine",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "pugnacité / bonté"
+        "answer": "oiseau / tricot"
       },
       {
         "id": "b",
-        "answer": "acharnement / dilapider"
+        "answer": "duvet / bourre"
       },
       {
         "id": "c",
-        "answer": "versatilité / générosité"
+        "answer": "chapeau / brin"
       },
       {
         "id": "d",
@@ -463,27 +471,27 @@
   },
   {
     "id": "ct_18",
-    "question": "RIGOUREUX est à INDULGENT ce que PLANTUREUX est à..",
+    "question": "ATHÉE est à CROYANCE ce que INDIGENT est à ..",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Chétif"
+        "answer": "Argent"
       },
       {
         "id": "b",
-        "answer": "Chauvin"
+        "answer": "Dignité"
       },
       {
         "id": "c",
-        "answer": "Charnu"
+        "answer": "Chef"
       },
       {
         "id": "d",
-        "answer": "Cholérique"
+        "answer": "Ambition"
       },
       {
         "id": "e",
-        "answer": "Chaleureux"
+        "answer": "Origine"
       },
       {
         "id": "f",
@@ -493,27 +501,27 @@
   },
   {
     "id": "ct_19",
-    "question": "DISPERSION / DISSIPATION , … / …",
+    "question": "PERFIDE / INSIDIEUX , … / ....",
     "possible_answers": [
       {
         "id": "a",
-        "answer": "Augmentation / Diminution"
+        "answer": "Pittoresque / Original"
       },
       {
         "id": "b",
-        "answer": "Propension / Inclination"
+        "answer": "Grand / Minuscule"
       },
       {
         "id": "c",
-        "answer": "Accumulation / Digestion"
+        "answer": "Joueur / Arbitre"
       },
       {
         "id": "d",
-        "answer": "Création / Gestion"
+        "answer": "Ciel / Nuage"
       },
       {
         "id": "e",
-        "answer": "Communion / Fonction"
+        "answer": "Eau / Bouteille"
       },
       {
         "id": "f",

@@ -12,8 +12,6 @@ CORS(app)
 
 @app.route('/getQuestions/<participant_id>/<language>', methods=['GET'])
 def getQuestions(participant_id, language):
-    # TODO do the selection
-    # returns a json array of the questions in the order for this participant
     try:
         with open(__DATABASE__ + '/user_assigments.json', 'r') as f:
             user_assigments = json.load(f)[str(participant_id)]
@@ -24,13 +22,14 @@ def getQuestions(participant_id, language):
 
     questions = []
 
-    # TODO dt choice?
-    for ct_choice, dt_choice in zip(user_assigments['questions'], [0, 0, 0, 0]):
+    for ct_choice, dt_choice in zip(user_assigments['ct_questions'], user_assigments['dt_questions']):
         with open(f'{__DATABASE__}/ct_{language}_{ct_choice:0>2}.json', 'r') as f:
             questions += [json.load(f)]
 
+        print(dt_choice)
+
         with open(f'{__DATABASE__}/dt_{language}.json', 'r') as f:
-            questions += [json.load(f)]
+            questions += [q for i, q in enumerate(json.load(f)) if i in [dt_choice]]
 
     return jsonify({'questions': questions,
                     'music_order': user_assigments['music_order']})

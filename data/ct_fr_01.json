@@ -1,522 +1,522 @@
 [
   {
     "id": "ct_1",
-    "question": "année / mois",
+    "question": "plaine / montagne",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "roman / chapitre"
+        "id": "1",
+        "answer": "haut / petit"
       },
       {
-        "id": "b",
-        "answer": "bissextile / été"
+        "id": "2",
+        "answer": "bas / haut"
       },
       {
-        "id": "c",
-        "answer": "pierre / pont"
+        "id": "3",
+        "answer": "herbe / eau"
       },
       {
-        "id": "d",
+        "id": "4",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_2",
-    "question": "auteur / rédacteur",
+    "question": "présent / passé",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "roman / éditorial"
+        "id": "1",
+        "answer": "sécurité / insécurité"
       },
       {
-        "id": "b",
-        "answer": "largeur / imprimeur"
+        "id": "2",
+        "answer": "aujourd’hui / futur"
       },
       {
-        "id": "c",
-        "answer": "livre / volume"
+        "id": "3",
+        "answer": "pendant / avant"
       },
       {
-        "id": "d",
+        "id": "4",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_3",
-    "question": "phrase / gamme",
+    "question": "pot / sabot",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "livre / piano"
+        "id": "1",
+        "answer": "feu / pied"
       },
       {
-        "id": "b",
-        "answer": "mot / note"
+        "id": "2",
+        "answer": "potier / sabotier"
       },
       {
-        "id": "c",
-        "answer": "discours / sonate"
+        "id": "3",
+        "answer": "potier / savetier"
       },
       {
-        "id": "d",
+        "id": "4",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_4",
-    "question": "CARRÉ est à RECTANGLE ce que CERCLE est à ..",
+    "question": "VIDE est à PLEIN ce que SOIREE est à…",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Sphère"
+        "id": "1",
+        "answer": "Temps"
       },
       {
-        "id": "b",
-        "answer": "Courbe"
+        "id": "2",
+        "answer": "Fin"
       },
       {
-        "id": "c",
-        "answer": "Diamètre"
+        "id": "3",
+        "answer": "Réveil"
       },
       {
-        "id": "d",
-        "answer": "Ellipse"
+        "id": "4",
+        "answer": "Heure"
       },
       {
-        "id": "e",
-        "answer": "Rayon"
+        "id": "5",
+        "answer": "Matinée"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_5",
-    "question": "ANNULAIRE est à MAIN ce que ONGLE est à ..",
+    "question": "PEINTRE est à PINCEAU ce que SCRIBE est à",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Doigt"
+        "id": "1",
+        "answer": "Crayon"
       },
       {
-        "id": "b",
-        "answer": "Vernis"
+        "id": "2",
+        "answer": "Page"
       },
       {
-        "id": "c",
-        "answer": "Peau"
+        "id": "3",
+        "answer": "Livre"
       },
       {
-        "id": "d",
-        "answer": "Coupe"
+        "id": "4",
+        "answer": "Mot"
       },
       {
-        "id": "e",
-        "answer": "Poil"
+        "id": "5",
+        "answer": "Papier"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_6",
-    "question": "POULE est à COQ ce que JUMENT est à ...",
+    "question": "POMME est à FRUIT ce que POMMIER est à ..",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Poulain"
+        "id": "1",
+        "answer": "Récolte"
       },
       {
-        "id": "b",
-        "answer": "Âne"
+        "id": "2",
+        "answer": "Tronc"
       },
       {
-        "id": "c",
-        "answer": "Ferme"
+        "id": "3",
+        "answer": "Feuille"
       },
       {
-        "id": "d",
-        "answer": "Pâture"
+        "id": "4",
+        "answer": "Grappe"
       },
       {
-        "id": "e",
-        "answer": "Etalon"
+        "id": "5",
+        "answer": "Arbre"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_7",
-    "question": "GRAMME est à MASSE ce que HEURE est à …",
+    "question": "CHEMISE est à TISSU ce que PNEU est à ....",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Montre"
+        "id": "1",
+        "answer": "Caoutchouc"
       },
       {
-        "id": "b",
-        "answer": "Temps"
+        "id": "2",
+        "answer": "Goudron"
       },
       {
-        "id": "c",
-        "answer": "Minute"
+        "id": "3",
+        "answer": "Conduite"
       },
       {
-        "id": "d",
-        "answer": "Semaine"
+        "id": "4",
+        "answer": "Route"
       },
       {
-        "id": "e",
-        "answer": "Saison"
+        "id": "5",
+        "answer": "Voiture"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_8",
-    "question": "BEAU est à AUBE ce que CHIEN est à ..",
+    "question": "OBSCURE est à NUIT ce que CLAIR est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "1",
+        "answer": "Soleil"
+      },
+      {
+        "id": "2",
+        "answer": "Ombre"
+      },
+      {
+        "id": "3",
+        "answer": "Lampe"
+      },
+      {
+        "id": "4",
         "answer": "Réveil"
       },
       {
-        "id": "b",
-        "answer": "Aboie"
+        "id": "5",
+        "answer": "Jour"
       },
       {
-        "id": "c",
-        "answer": "Chine"
-      },
-      {
-        "id": "d",
-        "answer": "Maître"
-      },
-      {
-        "id": "e",
-        "answer": "Ami"
-      },
-      {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_9",
-    "question": "REMPART est à PROTECTION ce que THÉÂTRE est à …",
+    "question": "POISON est à MORT ce que INFRACTION est à..",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Public"
+        "id": "1",
+        "answer": "Amande"
       },
       {
-        "id": "b",
-        "answer": "Pièce"
+        "id": "2",
+        "answer": "Transgression"
       },
       {
-        "id": "c",
-        "answer": "Divertissement"
+        "id": "3",
+        "answer": "Violation"
       },
       {
-        "id": "d",
-        "answer": "Comédie"
+        "id": "4",
+        "answer": "Sanction"
       },
       {
-        "id": "e",
-        "answer": "Acteur"
+        "id": "5",
+        "answer": "Rupture"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_10",
-    "question": "… est à craie ce que toile est à …",
+    "question": "… est à bateau ce qu’essence est à …",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "pastel / godets"
+        "id": "1",
+        "answer": "Mer … route"
       },
       {
-        "id": "b",
-        "answer": "tableau / pinceau"
+        "id": "2",
+        "answer": "Voile … pompe"
       },
       {
-        "id": "c",
-        "answer": "pinceau / gouache"
+        "id": "3",
+        "answer": "Vent … voiture"
       },
       {
-        "id": "d",
-        "answer": "je ne sais pas"
+        "id": "4",
+        "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_11",
-    "question": "BRANCHE est à … ce que … est à PEIGNE",
+    "question": "ORNITHOLOGUE est à … ce que … est à FRUITS",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Poisson / Manche"
+        "id": "1",
+        "answer": "Bijou / Fructologue"
       },
       {
-        "id": "b",
-        "answer": "Activité / Pointe"
+        "id": "2",
+        "answer": "Cétacé / Fruitier"
       },
       {
-        "id": "c",
-        "answer": "Chemin / Cheveu"
+        "id": "3",
+        "answer": "Oiseau / Pomologue"
       },
       {
-        "id": "d",
-        "answer": "Division / Brossage"
+        "id": "4",
+        "answer": "Dinosaure / Mycologue"
       },
       {
-        "id": "e",
-        "answer": "Lunette / Dent"
+        "id": "5",
+        "answer": "Mammifère / Sinologue"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_12",
-    "question": "PEAU est à .. ce que CERVEAU est à..",
+    "question": "BANAL est à .. ce que SAGE est à..",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Urologue/Cardiologue"
+        "id": "1",
+        "answer": "Sympathique/Magnifique"
       },
       {
-        "id": "b",
-        "answer": "Dermatologue/Urologue"
+        "id": "2",
+        "answer": "Ordinaire/Turbulent"
       },
       {
-        "id": "c",
-        "answer": "Pneumologue/Cardiologue"
+        "id": "3",
+        "answer": "Rare/Prudent"
       },
       {
-        "id": "d",
-        "answer": "Dermatologue/ Neurologue"
+        "id": "4",
+        "answer": "Extraordinaire/Dissipé"
       },
       {
-        "id": "e",
-        "answer": "Gastro-entérologue/Neurologue"
+        "id": "5",
+        "answer": "Original/Savant"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_13",
-    "question": "HABITER / RÉSIDER , … / …",
+    "question": "GOYAVE / … , POIRES / …",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Distraire / Emmener"
+        "id": "1",
+        "answer": "Fruit / Sirop"
       },
       {
-        "id": "b",
-        "answer": "Habiter / Changer"
+        "id": "2",
+        "answer": "Rose / Vin"
       },
       {
-        "id": "c",
-        "answer": "Offrir / Donner"
+        "id": "3",
+        "answer": "Herbacé / Fruitier"
       },
       {
-        "id": "d",
-        "answer": "Sécher / Repasser"
+        "id": "4",
+        "answer": "Voyage / Espoir"
       },
       {
-        "id": "e",
-        "answer": "Manger / Courir"
+        "id": "5",
+        "answer": "Local / Tropical"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_14",
-    "question": "INCISION est à BISTOURI ce que SILLON est à",
+    "question": "TANGENT est à TOUCHER ce que SÉCANT est à…",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Tranchée"
+        "id": "1",
+        "answer": "Éloigner"
       },
       {
-        "id": "b",
-        "answer": "Terre"
+        "id": "2",
+        "answer": "Correspondre"
       },
       {
-        "id": "c",
-        "answer": "Charrue"
+        "id": "3",
+        "answer": "Couper"
       },
       {
-        "id": "d",
-        "answer": "Rigole"
+        "id": "4",
+        "answer": "Joindre"
       },
       {
-        "id": "e",
-        "answer": "Champs"
+        "id": "5",
+        "answer": "Assembler"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_15",
-    "question": "OLIVIER est à … ce que … est à PAIX",
+    "question": "PRENDRE est à … ce que … est à LAVER",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Arbre / Raison"
+        "id": "1",
+        "answer": "Donner / Repasser"
       },
       {
-        "id": "b",
-        "answer": "Huile / Travail"
+        "id": "2",
+        "answer": "Vendre / Donner"
       },
       {
-        "id": "c",
-        "answer": "Prénom / Guerre"
+        "id": "3",
+        "answer": "Vouloir / Arranger"
       },
       {
-        "id": "d",
-        "answer": "Longévité / Colombe"
+        "id": "4",
+        "answer": "Offrir / Lessiver"
       },
       {
-        "id": "e",
-        "answer": "Joie / Traité"
+        "id": "5",
+        "answer": "Saisir / Nettoyer"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_16",
-    "question": "… est à ambassadeur ce qu’opercule est à …",
+    "question": "… est à modeste ce que plébéien est à …",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "ambassade / monticule"
+        "id": "1",
+        "answer": "modique / tyran"
       },
       {
-        "id": "b",
-        "answer": "poste / poisson"
+        "id": "2",
+        "answer": "vantard / impopulaire"
       },
       {
-        "id": "c",
-        "answer": "plénipotentiaire / couvercle"
+        "id": "3",
+        "answer": "fleur / champ"
       },
       {
-        "id": "d",
+        "id": "4",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_17",
-    "question": "persévérance / avarice",
+    "question": "bicyclette / voiture",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "pugnacité / bonté"
+        "id": "1",
+        "answer": "tricycle / voiture de course"
       },
       {
-        "id": "b",
-        "answer": "acharnement / dilapider"
+        "id": "2",
+        "answer": "draisienne / fardier"
       },
       {
-        "id": "c",
-        "answer": "versatilité / générosité"
+        "id": "3",
+        "answer": "pédalier / klaxon"
       },
       {
-        "id": "d",
+        "id": "4",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_18",
-    "question": "RIGOUREUX est à INDULGENT ce que PLANTUREUX est à..",
+    "question": "CONFIRMATION est à ACCORD ce que CONNIVENCE est à ..",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Chétif"
+        "id": "1",
+        "answer": "Enchantement"
       },
       {
-        "id": "b",
-        "answer": "Chauvin"
+        "id": "2",
+        "answer": "Imagination"
       },
       {
-        "id": "c",
-        "answer": "Charnu"
+        "id": "3",
+        "answer": "Abstinence"
       },
       {
-        "id": "d",
-        "answer": "Cholérique"
+        "id": "4",
+        "answer": "Collusion"
       },
       {
-        "id": "e",
-        "answer": "Chaleureux"
+        "id": "5",
+        "answer": "Prévalence"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
     "id": "ct_19",
-    "question": "DISPERSION / DISSIPATION , … / …",
+    "question": "PHILATÉLISTE / TIMBRE , … / …",
     "possible_answers": [
       {
-        "id": "a",
-        "answer": "Augmentation / Diminution"
+        "id": "1",
+        "answer": "Fibulanomiste / Billet"
       },
       {
-        "id": "b",
-        "answer": "Propension / Inclination"
+        "id": "2",
+        "answer": "Colombophile / Inspecteur"
       },
       {
-        "id": "c",
-        "answer": "Accumulation / Digestion"
+        "id": "3",
+        "answer": "Erpétolophile / Maladie"
       },
       {
-        "id": "d",
-        "answer": "Création / Gestion"
+        "id": "4",
+        "answer": "Apertophile / Boisson"
       },
       {
-        "id": "e",
-        "answer": "Communion / Fonction"
+        "id": "5",
+        "answer": "Mycophile / Champignon"
       },
       {
-        "id": "f",
+        "id": "6",
         "answer": "Je ne sais pas"
       }
     ]
