@@ -26,10 +26,9 @@ def getQuestions(participant_id, language):
         with open(f'{__DATABASE__}/ct_{language}_{ct_choice:0>2}.json', 'r') as f:
             questions += [json.load(f)]
 
-        print(dt_choice)
 
         with open(f'{__DATABASE__}/dt_{language}.json', 'r') as f:
-            questions += [q for i, q in enumerate(json.load(f)) if i in [dt_choice]]
+            questions += [[q for i, q in enumerate(json.load(f)) if i in [dt_choice]]]
 
     return jsonify({'questions': questions,
                     'music_order': user_assigments['music_order']})
