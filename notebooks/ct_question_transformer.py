@@ -985,7 +985,7 @@ raw_it_04 = """1. vacanze / riposo
 import re
 import json
 
-def parse_questions(raw, question_type):
+def parse_questions(raw, question_type, q_id):
     questions = []
 
     def get_raw_question():
@@ -1003,11 +1003,11 @@ def parse_questions(raw, question_type):
                 questions += [cur_question]
             cur_question = get_raw_question()
             match = re.match('^(\d{1,2}|\w{1,2})\. (.*)', l)
-            cur_question['id'] = f"{question_type}_{match[1]}"
+            cur_question['id'] = f"{q_id}_{question_type}_{match[1]}"
             cur_question['question'] = match[2].strip()
         if re.match(answer_regex, l):
             match = re.match(answer_regex, l)
-            cur_question['possible_answers'] += [{'id': match[1],
+            cur_question['possible_answers'] += [{'id': f"{q_id}_{question_type}_answer_{match[1]}",
                                                   'answer': match[2].split('+')[0].strip()}]
 
     questions += [cur_question]
@@ -1023,11 +1023,15 @@ raws = {
 
 # <codecell>
 
+
+
+# <codecell>
+
 question_type = 'ct'
 for language, questions in raws.items():
     for _id, q in enumerate(questions):
         with open(f'../data/{question_type}_{language}_{_id + 1:0>2}.json', 'w') as f:
-            json.dump(parse_questions(q, 'ct'), f, ensure_ascii=False, indent='  ')
+            json.dump(parse_questions(q, 'ct', f"{language}_{_id}_"), f, ensure_ascii=False, indent='  ')
 
 # <codecell>
 
