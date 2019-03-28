@@ -10,8 +10,8 @@ __DATABASE__ = __file__[:-len(__name__ + '.py')] + 'data/'
 app = Flask(__name__)
 CORS(app)
 
-@app.route('/getQuestions/<participant_id>/<language>', methods=['GET'])
-def getQuestions(participant_id, language):
+@app.route('/getQuestions/<api_token>/<participant_id>/<language>', methods=['GET'])
+def getQuestions(api_token, participant_id, language):
     try:
         with open(__DATABASE__ + '/user_assigments.json', 'r') as f:
             user_assigments = json.load(f)[str(participant_id)]
@@ -34,8 +34,8 @@ def getQuestions(participant_id, language):
                     'music_order': user_assigments['music_order']})
 
 
-@app.route('/submitUserData', methods=['POST'])
-def submitUserData():
+@app.route('/submitUserData/<api_token>', methods=['POST'])
+def submitUserData(api_token):
     if not request.json or 'user_id' not in request.json:
         abort(400)
 
@@ -45,12 +45,14 @@ def submitUserData():
 
     print(f"submitUserData getting {request.json}\n\n")
 
+    payload = [{'api_token': api_token, 'data': request.json}]
+
     if user_file.is_file():
         with open(user_file, 'r') as f:
             user_data = json.load(f)
-            user_data['data'] += [request.json]
+            user_data += payload
     else:
-        user_data = {'user_id': request.json['user_id'], 'data': [request.json]}
+        user_data = payload
 
     with open(user_file, 'w') as f:
         json.dump(user_data, f)
@@ -58,8 +60,8 @@ def submitUserData():
     return Response(status=200)
 
 
-@app.route('/submitAnswers', methods=['POST'])
-def submitAnswers():
+@app.route('/submitAnswers/<api_token>', methods=['POST'])
+def submitAnswers(api_token):
     if not request.json or 'user_id' not in request.json:
         abort(400)
 
@@ -67,19 +69,17 @@ def submitAnswers():
     file = pathlib.Path(file_path)
     file.parent.mkdir(parents=True, exist_ok=True)
 
+    payload = [{'api_token': api_token, 'data': request.json['answers']}]
+
     if file.is_file():
         with open(file, 'r') as f:
-            try:
-                old_answers = json.load(f)
-                if old_answers == '':
-                    old_answers = []
-            except JSONDecodeError as e:
-                old_answers = []
+            answers = json.load(f)
+            answers += payload
     else:
-        old_answers = []
+        answers = payload
 
     with open(file, 'w') as f:
-        f.write(json.dumps(old_answers + [request.json['answers']]))
+        json.dump(answers, f)
 
     return Response(status=200)
 
