@@ -10,8 +10,16 @@ __DATABASE__ = __file__[:-len(__name__ + '.py')] + 'data/'
 app = Flask(__name__)
 CORS(app)
 
+def _is_user_id_ok_(user_id):
+    with open(f'{__DATABASE__}/user_assigments.json', 'r') as f:
+        return user_id in json.load(f)
+
+
 @app.route('/getQuestions/<api_token>/<participant_id>/<language>', methods=['GET'])
 def getQuestions(api_token, participant_id, language):
+    if not _is_user_id_ok_(participant_id):
+        abort(400)
+
     try:
         with open(__DATABASE__ + '/user_assigments.json', 'r') as f:
             user_assigments = json.load(f)[str(participant_id)]
@@ -36,7 +44,7 @@ def getQuestions(api_token, participant_id, language):
 
 @app.route('/submitUserData/<api_token>', methods=['POST'])
 def submitUserData(api_token):
-    if not request.json or 'user_id' not in request.json:
+    if not request.json or 'user_id' not in request.json or not _is_user_id_ok_(request.json['user_id']):
         abort(400)
 
     user_file_path = f"{__DATABASE__}/additional_data/{request.json['user_id']}.json"
@@ -62,7 +70,7 @@ def submitUserData(api_token):
 
 @app.route('/submitAnswers/<api_token>', methods=['POST'])
 def submitAnswers(api_token):
-    if not request.json or 'user_id' not in request.json:
+    if not request.json or 'user_id' not in request.json or not _is_user_id_ok_(request.json['user_id']):
         abort(400)
 
     file_path = f"{__DATABASE__}/answers/{request.json['user_id']}.json"
