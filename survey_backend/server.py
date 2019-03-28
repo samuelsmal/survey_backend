@@ -12,7 +12,7 @@ CORS(app)
 
 def _is_user_id_ok_(user_id):
     with open(f'{__DATABASE__}/user_assigments.json', 'r') as f:
-        return user_id in json.load(f)
+        return str(user_id) in json.load(f)
 
 
 @app.route('/getQuestions/<api_token>/<participant_id>/<language>', methods=['GET'])
