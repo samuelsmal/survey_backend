@@ -328,11 +328,6 @@
     ]
   },
   {
-    "id": "ct_13",
-    "question": "Intraducibile",
-    "possible_answers": []
-  },
-  {
     "id": "ct_14",
     "question": "TANGENTE sta a TOCCARE come SECANTE sta a …",
     "possible_answers": [
@@ -394,7 +389,7 @@
   },
   {
     "id": "ct_16",
-    "question": "___ sta a MODESTO\t come PLEBEO sta a ___",
+    "question": "___ sta a MODESTO come PLEBEO sta a ___",
     "possible_answers": [
       {
         "id": "a",
