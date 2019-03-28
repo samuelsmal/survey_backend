@@ -1,505 +1,505 @@
 [
   {
-    "id": "ct_1",
+    "id": "it_4__ct_1",
     "question": "vacanze / riposo",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "estate / inverno"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "lavoro / attività"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "sole / sport"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "non lo so"
       }
     ]
   },
   {
-    "id": "ct_2",
+    "id": "it_4__ct_2",
     "question": "geologo / dermatologo",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "docente / medico"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "pietra / pelle"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "geografia / specialista"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "non lo so"
       }
     ]
   },
   {
-    "id": "ct_3",
+    "id": "it_4__ct_3",
     "question": "pilota / navigatore",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "macchina / marinaio"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "jet / trimarano"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "giornale / carta"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "non lo so"
       }
     ]
   },
   {
-    "id": "ct_4",
+    "id": "it_4__ct_4",
     "question": "CERVELLO sta a TESTA come CUORE sta a...",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "Vita"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "Torace"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "Polmone"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "Sangue"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "Respirazione"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_5",
+    "id": "it_4__ct_5",
     "question": "FLORA sta a VEGETALI come FAUNA sta a  ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "Piante"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "Floreali"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "Campagna"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "Animali"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "Cibo"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_6",
+    "id": "it_4__ct_6",
     "question": "CHILO sta a MILLE come ETTO sta a…",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "Cento"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "Migliaia"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "Dieci"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "Millione"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "Mille"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_7",
+    "id": "it_4__ct_7",
     "question": "BENDA sta a FERITA come  SPAGO sta a ...",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "Impacchetare"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "Forbici"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "Taglio"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "Paquetto"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "Corda"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_8",
+    "id": "it_4__ct_8",
     "question": "RUOTA sta a BICI come CORDA sta a",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "Panno"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "Arco"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "Spago"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "Saltare"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "Collo"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_9",
+    "id": "it_4__ct_9",
     "question": "MATITA sta a SCRIVERE come METRO sta a",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "INSEGNARE"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "MISURARE"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "POSIZIONARE"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "DIRIGERE"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "DISPORRE"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "non lo so"
       }
     ]
   },
   {
-    "id": "ct_10",
+    "id": "it_4__ct_10",
     "question": "PEDIATRA  sta a ___ come ___ sta a PIEDE",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "MANO … PEDICURE"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "OMOLOGO … GAMBA"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "BAMBINO … PODOLOGO"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "MEDICO … UMANO"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "SPECIALISTA … CORSA"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_11",
+    "id": "it_4__ct_11",
     "question": "Anagramma",
     "possible_answers": []
   },
   {
-    "id": "ct_12",
+    "id": "it_4__ct_12",
     "question": "BENESSERE sta a ___ come ORDINE sta a ___",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "NEGATIVO … DIFFICOLTÀ"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "SOFFERENZA … ANARCHIA"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "ILLUSIONE … STIVAGGIO"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "RIPOSO … TEOCRAZIA"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "CURA … CAMMINO"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_13",
+    "id": "it_4__ct_13",
     "question": "SCRITTORE sta a ROMANZO come",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "CANTANTE sta a MUSICA"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "MUSICISTA sta a PAROLA"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "INTERPRETE sta a PARTIZIONE"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "COREOGRAFO sta a CANZONE"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "COMPOSITORE sta a MELODIA"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_14",
+    "id": "it_4__ct_14",
     "question": "BELLICOSO sta a … come .. sta a PACIFICO",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "Dolce / Calmo"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "Tranquillo / Violente"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "Pericoloso / Spaventoso"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "Forte / Rischioso"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "Agitato / Lontano"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_15",
+    "id": "it_4__ct_15",
     "question": "LIVIDO sta a … come CARNOSO sta a ...",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "Esangue/ Grassoccio"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "Vivo/ Paffuto"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "Abitabile/ Piacevole"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "Completo/Gradevole"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "Disocupato/Tagliente"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_16",
+    "id": "it_4__ct_16",
     "question": "… sta a claustrofobico come arrossito sta a  …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "chisusura / timidezza"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "ascensore/ eritrofobia"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "paura / angoscia"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "non lo so"
       }
     ]
   },
   {
-    "id": "ct_17",
+    "id": "it_4__ct_17",
     "question": "piuma / lana",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "uccello / tricot"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "piumino / bourre"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "cappello / brin"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_18",
+    "id": "it_4__ct_18",
     "question": "ATEO sta a CREDENZA come INDIGENTE sta a ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "SOLDI"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "Dignità"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "Capo"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "Ambizione"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "Origine"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_19",
+    "id": "it_4__ct_19",
     "question": "INFIDO / INSIDIOSO , … / ....",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_4__ct_answer_a",
         "answer": "Pittoresco / Originale"
       },
       {
-        "id": "b",
+        "id": "it_4__ct_answer_b",
         "answer": "Grande / Minuscolo"
       },
       {
-        "id": "c",
+        "id": "it_4__ct_answer_c",
         "answer": "Giocatore / Arbitro"
       },
       {
-        "id": "d",
+        "id": "it_4__ct_answer_d",
         "answer": "Cielo / Nuvola"
       },
       {
-        "id": "e",
+        "id": "it_4__ct_answer_e",
         "answer": "Acqua / Bottiglia"
       },
       {
-        "id": "f",
+        "id": "it_4__ct_answer_f",
         "answer": "Non lo so"
       }
     ]

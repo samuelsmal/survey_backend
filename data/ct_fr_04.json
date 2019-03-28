@@ -1,530 +1,530 @@
 [
   {
-    "id": "ct_1",
+    "id": "fr_4__ct_1",
     "question": "vacances / détente",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "été / hiver"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "travail / occupation"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "soleil / sport"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_2",
+    "id": "fr_4__ct_2",
     "question": "géologue / dermatologue",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "conférencier / médecin"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "pierre / peau"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "géographie / spécialiste"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_3",
+    "id": "fr_4__ct_3",
     "question": "pilote / navigateur",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "voiture / marin"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "jet / trimaran"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "journal / carte"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_4",
+    "id": "fr_4__ct_4",
     "question": "CERVEAU est à TÊTE ce que COEUR est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Vie"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Thorax"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Poumon"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Sang"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Respiration"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_5",
+    "id": "fr_4__ct_5",
     "question": "FLORE est à VÉGÉTALES ce que FAUNE est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Plantes"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Floraux"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Campagnes"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Animales"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Nourritures"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_6",
+    "id": "fr_4__ct_6",
     "question": "KILO est à MILLE ce que HECTO est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Cent"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Millier"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Dix"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Million"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Mille"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_7",
+    "id": "fr_4__ct_7",
     "question": "BANDAGE est à BLESSURE ce que FICELLE est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Emballer"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Ciseaux"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Coupure"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Paquet"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Corde"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_8",
+    "id": "fr_4__ct_8",
     "question": "PNEU est à VÉLO ce que CORDE est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Linge"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Arc"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Ficelle"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Sauter"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Cou"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_9",
+    "id": "fr_4__ct_9",
     "question": "CRAYON est à ÉCRIRE ce que MÈTRE est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Enseigner"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Mesurer"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Positionner"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Diriger"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Disposer"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_10",
+    "id": "fr_4__ct_10",
     "question": "PEDIATRE est à … ce que … est à PIED",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Main / Pédicure"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Homologue / Jambe"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Enfant / Podologue"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Médecin / Humain"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Spécialiste / Course"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_11",
+    "id": "fr_4__ct_11",
     "question": "BALISER est à .. ce que RUINER est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Sablier/Uriner"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Protéger/ Construire"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Peur/Jeux"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Flipper/essayer"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Jouer/Réunir"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_12",
+    "id": "fr_4__ct_12",
     "question": "BIEN-ÊTRE est à … ce que ORDRE est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Mauvais/Difficulté"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Souffrance/Anarchie"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Illusion/Rangement"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Repos/Théocratie"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Soin/Chemin"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_13",
+    "id": "fr_4__ct_13",
     "question": "ÉCRIVAIN / ROMAN , … / …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Chanteur / Musique"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Musicien / Parole"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Interprète / Partition"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Chorégraphe / Chanson"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Compositeur / Mélodie"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_14",
+    "id": "fr_4__ct_14",
     "question": "BELLIQUEUX est à … ce que … est à PACIFIQUE",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Doux / Calme"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Paisible / Violent"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Dangereux / Effrayant"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Corsé / Scabreux"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Agité / Éloigné"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_15",
+    "id": "fr_4__ct_15",
     "question": "LIVIDE est à .. ce que CHARNU est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Exsangue /Pulpeux"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Vivant/ Potelé"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Habitable/Agréable"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Complet/Plaisant"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Inoccupé/Tranchant"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_16",
+    "id": "fr_4__ct_16",
     "question": "… est à claustrophobie ce que rougie est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "clôture / timidité"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "ascenseur / éreutophobie"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "peur / angoisse"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_17",
+    "id": "fr_4__ct_17",
     "question": "plume / laine",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "oiseau / tricot"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "duvet / bourre"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "chapeau / brin"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_18",
+    "id": "fr_4__ct_18",
     "question": "ATHÉE est à CROYANCE ce que INDIGENT est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Argent"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Dignité"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Chef"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Ambition"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Origine"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_19",
+    "id": "fr_4__ct_19",
     "question": "PERFIDE / INSIDIEUX , … / ....",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_4__ct_answer_a",
         "answer": "Pittoresque / Original"
       },
       {
-        "id": "b",
+        "id": "fr_4__ct_answer_b",
         "answer": "Grand / Minuscule"
       },
       {
-        "id": "c",
+        "id": "fr_4__ct_answer_c",
         "answer": "Joueur / Arbitre"
       },
       {
-        "id": "d",
+        "id": "fr_4__ct_answer_d",
         "answer": "Ciel / Nuage"
       },
       {
-        "id": "e",
+        "id": "fr_4__ct_answer_e",
         "answer": "Eau / Bouteille"
       },
       {
-        "id": "f",
+        "id": "fr_4__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]

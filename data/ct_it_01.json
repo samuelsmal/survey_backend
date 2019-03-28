@@ -1,470 +1,475 @@
 [
   {
-    "id": "ct_1",
+    "id": "it_1__ct_1",
     "question": "pianura : montagna",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "alto : piccolo"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "basso : alto"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "erba : acqua"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "non lo so"
       }
     ]
   },
   {
-    "id": "ct_2",
+    "id": "it_1__ct_2",
     "question": "presente : passato",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "sicurezza : insicurezza"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "oggi : futuro"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "mentre : prima"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "non lo so"
       }
     ]
   },
   {
-    "id": "ct_3",
+    "id": "it_1__ct_3",
     "question": "vaso : scarpa ***",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "acqua : piede"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "vasaio : calzolaio"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "vasaio : ciabattino"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "non lo so"
       }
     ]
   },
   {
-    "id": "ct_4",
+    "id": "it_1__ct_4",
     "question": "VUOTO sta a PIENO come SERA sta a …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "Tempo"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "Fine"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "Sveglia"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "Ora"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "Mattina"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_5",
+    "id": "it_1__ct_5",
     "question": "PITTORE sta a PENNELLO come SCRIBA sta a …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "Matita"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "Pagina"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "Libro"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "Parola"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "Carta"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_6",
+    "id": "it_1__ct_6",
     "question": "MELA sta a FRUTTO come MELO sta a…",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "Raccolta"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "Tronco"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "Foglia"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "Grappolo"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "Albero"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_7",
+    "id": "it_1__ct_7",
     "question": "CAMICIA sta a TESSUTO come PNEUMATICO sta a …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "Gomma"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "Catrame"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "Guida"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "Strada"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "Macchina"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_8",
+    "id": "it_1__ct_8",
     "question": "OSCURO sta a NOTTE come CHIARO sta a …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "Sole"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "Ombra"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "Lampada"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "Sveglia"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "Giorno"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_9",
+    "id": "it_1__ct_9",
     "question": "VELENO sta a MORTE come REATO sta a …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "Pane"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "Trasgressione"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "Violazione"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "Pena"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "Rottura"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_10",
+    "id": "it_1__ct_10",
     "question": "___ sta a BARCA come BENZINA sta a ___",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "MARE … STRADA"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "VELA … POMPA"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "VENTO … MACCHINA"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_11",
+    "id": "it_1__ct_11",
     "question": "ORNITOLOGO sta a ___ come ___ sta a FRUTTA",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "GIOIELLO … FRUTTOLOGO"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "CETACEI … ORTOFRUTTICOLO"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "UCCELLI … POMOLOGO"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "DINOSAURI … MICOLOGO"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "MAMMIFERI … SINOLOGO"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non  lo so"
       }
     ]
   },
   {
-    "id": "ct_12",
+    "id": "it_1__ct_12",
     "question": "BANALE sta a ___ come SAGGIO sta a ___",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "SIMPATICO … MAGNIFICO"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "ORDINARIO … TURBOLENTO"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "RARO … PRUDENTE"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "STRAORDINARIO … DISSIPATO"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "ORIGINALE … SAGGIO"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_14",
+    "id": "it_1__ct_13",
+    "question": "Intraducibile",
+    "possible_answers": []
+  },
+  {
+    "id": "it_1__ct_14",
     "question": "TANGENTE sta a TOCCARE come SECANTE sta a …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "Allontanare"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "Corrispondere"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "Tagliare"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "Unire"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "Assemblare"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_15",
+    "id": "it_1__ct_15",
     "question": "PRENDERE sta a ___ come ___ sta a LAVARE",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "DARE … STIRARE"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "VENDERE … DARE"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "VOLERE … SISTEMARE"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "OFFIRE … RASSETTARE"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "AFFERRARE … PULIRE"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_16",
-    "question": "___ sta a MODESTO come PLEBEO sta a ___",
+    "id": "it_1__ct_16",
+    "question": "___ sta a MODESTO\t come PLEBEO sta a ___",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "MODICO … TIRANNO"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "VANITOSO … NOBILE"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "FIORE … CAMPO"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_18",
+    "id": "it_1__ct_18",
     "question": "CONFERMA sta a ACCORDO come CONNIVENZA/COMPLICITÀ sta a …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "INCANTO"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "IMMAGINAZIONE"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "ASTINENZA"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "COLLUSIONE"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "PREVALENZA"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_19",
+    "id": "it_1__ct_19",
     "question": "FILATELICO sta a TIMBRO come ___ sta a ___",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_1__ct_answer_a",
         "answer": "FIBULANOMISTA … BANCONOTA"
       },
       {
-        "id": "b",
+        "id": "it_1__ct_answer_b",
         "answer": "COLOMBOFILO … ISPETTORE"
       },
       {
-        "id": "c",
+        "id": "it_1__ct_answer_c",
         "answer": "ERPETOFILO … MALATTIA"
       },
       {
-        "id": "d",
+        "id": "it_1__ct_answer_d",
         "answer": "FILATELICO … LETTERE"
       },
       {
-        "id": "e",
+        "id": "it_1__ct_answer_e",
         "answer": "MICOFILO … FUNGHO"
       },
       {
-        "id": "f",
+        "id": "it_1__ct_answer_f",
         "answer": "Non lo so"
       }
     ]

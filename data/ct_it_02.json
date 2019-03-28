@@ -1,492 +1,497 @@
 [
   {
-    "id": "ct_1",
+    "id": "it_2__ct_1",
     "question": "ANNO sta a MESE come",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "ROMANZO sta a CAPITOLO"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "BISESTILE sta a ESTATE"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "PIETRA sta a PONTE"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_2",
+    "id": "it_2__ct_2",
     "question": "AUTORE sta a REDATTORE come",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "ROMANZO sta a EDITORIALE"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "ORAFO sta a TIPOGRAFO"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "LIBRO sta a VOLUME"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_3",
+    "id": "it_2__ct_3",
     "question": "FRASE sta a ___ come  SCALA sta a ___",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "LIBRO ... PIANO"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "PAROLA ... NOTA"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "DISCORSO … SONATA"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_4",
+    "id": "it_2__ct_4",
     "question": "QUADRATO sta a RETTANGOLO come CERCHIO sta a",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "SFERA"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "CURVA"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "DIAMETRO"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "ELLISSE"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "RAGGIO"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_5",
+    "id": "it_2__ct_5",
     "question": "ANULARE sta a MANO come UNGHIA sta a",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "DITO"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "SMALTO"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "PELLE"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "TAGLIO"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "PELO"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_6",
+    "id": "it_2__ct_6",
     "question": "GALLINA sta a GALLO come GIUMENTA sta a",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "PULEDRO"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "ASINO"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "FATTORIA"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "PASCOLO"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "STALLONE"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_7",
+    "id": "it_2__ct_7",
     "question": "GRAMMO sta a MASSA come ORA sta a",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "OROLOGIO"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "TEMPO"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "MINUTO"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "SETTIMANA"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "STAGIONE"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_9",
+    "id": "it_2__ct_8",
+    "question": "Anagramma",
+    "possible_answers": []
+  },
+  {
+    "id": "it_2__ct_9",
     "question": "FORTEZZA sta a DIFESA come TEATRO sta a …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "PUBBLICO"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "SPETTACOLO"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "INTRATTENIMENTO"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "COMMEDIA"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "ATTORE"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_10",
+    "id": "it_2__ct_10",
     "question": "___ sta a GESSO come TELA sta a ___",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "PASTELLO … BICCHIERE"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "LAVAGNA … PENNELLO"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "PENNELLO … TEMPERA"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_11",
+    "id": "it_2__ct_11",
     "question": "GAMBA sta a ___ come ___ sta a PETTINE",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "FIORE … MANICO"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "ATTIVITÀ … PUNTA"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "CAMMINO … CAPELLO"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "CORSA … SPAZZOLATURA"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "TAVOLO … DENTE"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_12",
+    "id": "it_2__ct_12",
     "question": "PELLE sta a ___ come CERVELLO sta a ___",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "UROLOGO … CARDIOLOGIO"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "DERMATOLOGO … UROLOGO"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "PNEUMOLOGO … CARDIOLOGO"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "DERMATOLOGO … NEUROLOGO"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "GINECOLOGO … NEUROLOGO"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_13",
+    "id": "it_2__ct_13",
     "question": "ABITARE sta a RISIEDERE come",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "DISTRARRE sta a ACCOMPAGNARE"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "ABITARE sta a CAMBIARE"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "OFFRIRE sta a DONARE"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "ASCIUGARE sta a STIRARE"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "MANGIARE sta a CORRERE"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_14",
+    "id": "it_2__ct_14",
     "question": "INCISIONE sta a BISTURI come SOLCO sta a",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "TRINCEA"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "TERRA"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "ARATRO"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "CANALE"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "CAMPO"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_15",
+    "id": "it_2__ct_15",
     "question": "ULIVO sta a ___ come ___ sta a PACE",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "ALBERO … RAGIONE"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "OLIO … LAVORO"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "PIANTA … GUERRA"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "SAPIENZA … COLOMBA"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "GIOIA … TRATTATO"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_16",
+    "id": "it_2__ct_16",
     "question": "___ sta a AMBASCIATORE come CAPPUCCIO sta a ___",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "AMBASCIATA … COLLINA"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "RUOLO … PESCE"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "PLENIPOTENZIARIO … COPERCHIO"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_17",
+    "id": "it_2__ct_17",
     "question": "PERSEVERANZA / AVARIZIA",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "TENACIA / BONTÀ"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "ACCANIMENTO / DILAPIDARE"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "VERSATILITÀ / GENEROSITÀ"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_18",
+    "id": "it_2__ct_18",
     "question": "RIGOROSO sta a INDULGENTE come GIUNONICO sta a",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "GRACILE"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "SCIOVINISTA"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "CORPOSO"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "IRASCIBILE"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "CALOROSO"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]
   },
   {
-    "id": "ct_19",
+    "id": "it_2__ct_19",
     "question": "DISPERSIONE sta a DISSIPAZIONE come",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "it_2__ct_answer_a",
         "answer": "AUMENTO sta a DIMINUZIONE"
       },
       {
-        "id": "b",
+        "id": "it_2__ct_answer_b",
         "answer": "PROPENSIONE sta a INCLINAZIONE"
       },
       {
-        "id": "c",
+        "id": "it_2__ct_answer_c",
         "answer": "ACCUMULAZIONE sta a DIGESTIONE"
       },
       {
-        "id": "d",
+        "id": "it_2__ct_answer_d",
         "answer": "CREAZIONE sta a GESTIONE"
       },
       {
-        "id": "e",
+        "id": "it_2__ct_answer_e",
         "answer": "COMUNIONE sta a FUNZIONE"
       },
       {
-        "id": "f",
+        "id": "it_2__ct_answer_f",
         "answer": "Non lo so"
       }
     ]

@@ -1,522 +1,522 @@
 [
   {
-    "id": "ct_1",
+    "id": "fr_2__ct_1",
     "question": "année / mois",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "roman / chapitre"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "bissextile / été"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "pierre / pont"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_2",
+    "id": "fr_2__ct_2",
     "question": "auteur / rédacteur",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "roman / éditorial"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "largeur / imprimeur"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "livre / volume"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_3",
+    "id": "fr_2__ct_3",
     "question": "phrase / gamme",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "livre / piano"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "mot / note"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "discours / sonate"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_4",
+    "id": "fr_2__ct_4",
     "question": "CARRÉ est à RECTANGLE ce que CERCLE est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Sphère"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Courbe"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Diamètre"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Ellipse"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Rayon"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_5",
+    "id": "fr_2__ct_5",
     "question": "ANNULAIRE est à MAIN ce que ONGLE est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Doigt"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Vernis"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Peau"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Coupe"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Poil"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_6",
+    "id": "fr_2__ct_6",
     "question": "POULE est à COQ ce que JUMENT est à ...",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Poulain"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Âne"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Ferme"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Pâture"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Etalon"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_7",
+    "id": "fr_2__ct_7",
     "question": "GRAMME est à MASSE ce que HEURE est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Montre"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Temps"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Minute"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Semaine"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Saison"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_8",
+    "id": "fr_2__ct_8",
     "question": "BEAU est à AUBE ce que CHIEN est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Réveil"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Aboie"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Chine"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Maître"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Ami"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_9",
+    "id": "fr_2__ct_9",
     "question": "REMPART est à PROTECTION ce que THÉÂTRE est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Public"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Pièce"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Divertissement"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Comédie"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Acteur"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_10",
+    "id": "fr_2__ct_10",
     "question": "… est à craie ce que toile est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "pastel / godets"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "tableau / pinceau"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "pinceau / gouache"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_11",
+    "id": "fr_2__ct_11",
     "question": "BRANCHE est à … ce que … est à PEIGNE",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Poisson / Manche"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Activité / Pointe"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Chemin / Cheveu"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Division / Brossage"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Lunette / Dent"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_12",
+    "id": "fr_2__ct_12",
     "question": "PEAU est à .. ce que CERVEAU est à..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Urologue/Cardiologue"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Dermatologue/Urologue"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Pneumologue/Cardiologue"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Dermatologue/ Neurologue"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Gastro-entérologue/Neurologue"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_13",
+    "id": "fr_2__ct_13",
     "question": "HABITER / RÉSIDER , … / …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Distraire / Emmener"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Habiter / Changer"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Offrir / Donner"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Sécher / Repasser"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Manger / Courir"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_14",
+    "id": "fr_2__ct_14",
     "question": "INCISION est à BISTOURI ce que SILLON est à",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Tranchée"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Terre"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Charrue"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Rigole"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Champs"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_15",
+    "id": "fr_2__ct_15",
     "question": "OLIVIER est à … ce que … est à PAIX",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Arbre / Raison"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Huile / Travail"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Prénom / Guerre"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Longévité / Colombe"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Joie / Traité"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_16",
+    "id": "fr_2__ct_16",
     "question": "… est à ambassadeur ce qu’opercule est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "ambassade / monticule"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "poste / poisson"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "plénipotentiaire / couvercle"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_17",
+    "id": "fr_2__ct_17",
     "question": "persévérance / avarice",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "pugnacité / bonté"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "acharnement / dilapider"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "versatilité / générosité"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_18",
+    "id": "fr_2__ct_18",
     "question": "RIGOUREUX est à INDULGENT ce que PLANTUREUX est à..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Chétif"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Chauvin"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Charnu"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Cholérique"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Chaleureux"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_19",
+    "id": "fr_2__ct_19",
     "question": "DISPERSION / DISSIPATION , … / …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_2__ct_answer_a",
         "answer": "Augmentation / Diminution"
       },
       {
-        "id": "b",
+        "id": "fr_2__ct_answer_b",
         "answer": "Propension / Inclination"
       },
       {
-        "id": "c",
+        "id": "fr_2__ct_answer_c",
         "answer": "Accumulation / Digestion"
       },
       {
-        "id": "d",
+        "id": "fr_2__ct_answer_d",
         "answer": "Création / Gestion"
       },
       {
-        "id": "e",
+        "id": "fr_2__ct_answer_e",
         "answer": "Communion / Fonction"
       },
       {
-        "id": "f",
+        "id": "fr_2__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]

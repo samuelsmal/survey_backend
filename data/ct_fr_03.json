@@ -1,530 +1,530 @@
 [
   {
-    "id": "ct_1",
+    "id": "fr_3__ct_1",
     "question": "animal / cage",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "homme / jardin"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "homme / prison"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "homme / clotûre"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_2",
+    "id": "fr_3__ct_2",
     "question": "parents / enfants",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "famille / école"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "enseignants / élèves"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "cousins / cousines"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_3",
+    "id": "fr_3__ct_3",
     "question": "muscat / conférence",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "apéritif / imitation"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "raisin / public"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "raisin / poire"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_4",
+    "id": "fr_3__ct_4",
     "question": "ENVOYÉ est à REÇU ce que LANCÉ est à…",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Perdu"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Jeté"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Attrapé"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Lu"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Cassé"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_5",
+    "id": "fr_3__ct_5",
     "question": "RAISIN est à VIN ce que BLÉ est à…",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Orge"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Pain"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Alcool"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Fruit"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Terre"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_6",
+    "id": "fr_3__ct_6",
     "question": "PETIT est à GRAND ce que BIENVEILLANT est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Maladroit"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Entreprenant"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Téméraire"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Hostile"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Robuste"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_7",
+    "id": "fr_3__ct_7",
     "question": "AIMER est à MAIRE ce que CHINE est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Pays"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Chien"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Est"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Soleil"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Ciel"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_8",
+    "id": "fr_3__ct_8",
     "question": "LETTRE est à MOT ce que PHRASE est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Verbe"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Interrogation"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Paragraphe"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Expression"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Livre"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_9",
+    "id": "fr_3__ct_9",
     "question": "CARPE est à MUET ce que TAUPE est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Bavard"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Rusé"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Myope"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Doux"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Têtu"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_10",
+    "id": "fr_3__ct_10",
     "question": "ARTIFICIEL est à … ce que … est à PROFOND",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Plante / Mer"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Réalité / Fabriqué"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Factice / Personnel"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Naturel / Superficiel"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Ile / Océan"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_11",
+    "id": "fr_3__ct_11",
     "question": "CUISINER est à.. ce que LAVER est à",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Préparer/Acheter"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Regarder /Changer"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Servir/sécher"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Gagner/Arrêter"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Cuire/Arranger"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_12",
+    "id": "fr_3__ct_12",
     "question": "NOUER est à .. ce que GAGNER est à..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Lier/Perdre"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Attacher/Triompher"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Défaire/Encaisser"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "CHavirer/Percevoir"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Noeud/Perte"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_13",
+    "id": "fr_3__ct_13",
     "question": "GOLF / DEBOUT , … / …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Ski / Tailleur"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Tennis / Genou"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Cheval / Califourchon"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Natation / Assis"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Escrime / Allongé"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_14",
+    "id": "fr_3__ct_14",
     "question": "HARICOT est à … ce que … est à POIRES",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Vert / Pomme"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Chariot / Espoir"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Boîtes / Conserve"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Légume / Dessert"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Fin / Molle"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_15",
+    "id": "fr_3__ct_15",
     "question": "EMPATHIE est à .. ce que ANIMOSITÉ est à…",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Maladroit/Joie"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Égoïsme/Haine"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Narcissisme/Antipathie"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Amour/Grossier"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Compassion/Hostilité"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_16",
+    "id": "fr_3__ct_16",
     "question": "… est à voix ce qu’orthophoniste est à …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "direction / rigueur"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "timbre / patient"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "phoniatre / diction"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_17",
+    "id": "fr_3__ct_17",
     "question": "enclume / métacarpe",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "forgeron / doigt"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "oreille / paume"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "fer / poisson"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_18",
+    "id": "fr_3__ct_18",
     "question": "ÉCOLOGISTE est à ENVIRONNEMENT ce que ENTOMOLOGISTE est à ..",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Maladie"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Virus"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Biologie"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Humain"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Insecte"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
   },
   {
-    "id": "ct_19",
+    "id": "fr_3__ct_19",
     "question": "VERSATILE / CONSTANT , … / …",
     "possible_answers": [
       {
-        "id": "a",
+        "id": "fr_3__ct_answer_a",
         "answer": "Initial / Primaire"
       },
       {
-        "id": "b",
+        "id": "fr_3__ct_answer_b",
         "answer": "Principal / Primordial"
       },
       {
-        "id": "c",
+        "id": "fr_3__ct_answer_c",
         "answer": "Pragmatique / Théorique"
       },
       {
-        "id": "d",
+        "id": "fr_3__ct_answer_d",
         "answer": "Amical / Cordial"
       },
       {
-        "id": "e",
+        "id": "fr_3__ct_answer_e",
         "answer": "Abrupte / Raide"
       },
       {
-        "id": "f",
+        "id": "fr_3__ct_answer_f",
         "answer": "Je ne sais pas"
       }
     ]
