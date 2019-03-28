@@ -588,7 +588,6 @@ raw_it_01="""1. pianura : montagna
     d. STRAORDINARIO … DISSIPATO +
     e. ORIGINALE … SAGGIO
     f. Non lo so
-13.  Intraducibile
 14. TANGENTE sta a TOCCARE come SECANTE sta a …
     a. Allontanare
     b. Corrispondere
@@ -670,7 +669,6 @@ raw_it_02="""1. ANNO sta a MESE come
     d. SETTIMANA
     e. STAGIONE
     f. Non lo so
-8. Anagramma
 9. FORTEZZA sta a DIFESA come TEATRO sta a …
     a. PUBBLICO
     b. SPETTACOLO
@@ -925,7 +923,6 @@ raw_it_04 = """1. vacanze / riposo
     d. MEDICO … UMANO
     e. SPECIALISTA … CORSA
     f. Non lo so
-11. Anagramma
 12. BENESSERE sta a ___ come ORDINE sta a ___
     a. NEGATIVO … DIFFICOLTÀ
     b. SOFFERENZA … ANARCHIA +
@@ -1031,7 +1028,7 @@ question_type = 'ct'
 for language, questions in raws.items():
     for _id, q in enumerate(questions):
         with open(f'../data/{question_type}_{language}_{_id + 1:0>2}.json', 'w') as f:
-            json.dump(parse_questions(q, 'ct', f"{language}_{_id}_"), f, ensure_ascii=False, indent='  ')
+            json.dump(parse_questions(q, 'ct', f"{language}_{_id + 1}_"), f, ensure_ascii=False, indent='  ')
 
 # <codecell>
 
