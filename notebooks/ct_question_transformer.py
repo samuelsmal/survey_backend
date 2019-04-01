@@ -513,468 +513,503 @@ raw_fr_04="""1. vacances / détente
 
 # it 1
 raw_it_01="""1. pianura : montagna
-    a. alto : piccolo
-    b. basso : alto +
-    c. erba : acqua
-    d. non lo so
+    1. alto : piccolo
+    2. basso : alto +
+    3. erba : acqua
+    4. non lo so
 2. presente : passato
-    a. sicurezza : insicurezza
-    b. oggi : futuro
-    c. mentre : prima +
-    d. non lo so
+    1. sicurezza : insicurezza
+    2. oggi : futuro
+    3. mentre : prima +
+    4. non lo so
 3. vaso : scarpa ***
-    a. acqua : piede
-    b. vasaio : calzolaio +
-    c. vasaio : ciabattino
-    d. non lo so
+    1. acqua : piede
+    2. vasaio : calzolaio +
+    3. vasaio : ciabattino
+    4. non lo so
 4. VUOTO sta a PIENO come SERA sta a …
-    a. Tempo
-    b. Fine
-    c. Sveglia
-    d. Ora
-    e. Mattina +
-    f. Non lo so
+    1. Tempo
+    2. Fine
+    3. Sveglia
+    4. Ora
+    5. Mattina +
+    6. Non lo so
 5. PITTORE sta a PENNELLO come SCRIBA sta a …
-    a. Matita +
-    b. Pagina
-    c. Libro
-    d. Parola
-    e. Carta
-    f. Non lo so
+    1. Matita +
+    2. Pagina
+    3. Libro
+    4. Parola
+    5. Carta
+    6. Non lo so
 6. MELA sta a FRUTTO come MELO sta a…
-    a. Raccolta
-    b. Tronco
-    c. Foglia
-    d. Grappolo
-    e. Albero +
-    f. Non lo so
+    1. Raccolta
+    2. Tronco
+    3. Foglia
+    4. Grappolo
+    5. Albero +
+    6. Non lo so
 7. CAMICIA sta a TESSUTO come PNEUMATICO sta a …
-    a. Gomma
-    b. Catrame
-    c. Guida
-    d. Strada
-    e. Macchina
-    f. Non lo so
+    1. Gomma
+    2. Catrame
+    3. Guida
+    4. Strada
+    5. Macchina
+    6. Non lo so
 8. OSCURO sta a NOTTE come CHIARO sta a …
-    a. Sole
-    b. Ombra
-    c. Lampada
-    d. Sveglia
-    e. Giorno +
-    f. Non lo so
+    1. Sole
+    2. Ombra
+    3. Lampada
+    4. Sveglia
+    5. Giorno +
+    6. Non lo so
 9. VELENO sta a MORTE come REATO sta a …
-    a. Pane
-    b. Trasgressione
-    c. Violazione
-    d. Pena +
-    e. Rottura
-    f. Non lo so
-10.  ___ sta a BARCA come BENZINA sta a ___
-    a. MARE … STRADA
-    b. VELA … POMPA
-    c. VENTO … MACCHINA +
-    d. Non lo so
+    1. Pane
+    2. Trasgressione
+    3. Violazione
+    4. Pena +
+    5. Rottura
+    6. Non lo so
+10. ___ sta a BARCA come BENZINA sta a ___
+    1. MARE … STRADA
+    2. VELA … POMPA
+    3. VENTO … MACCHINA +
+    4. Non lo so
 11. ORNITOLOGO sta a ___ come ___ sta a FRUTTA
-    a. GIOIELLO … FRUTTOLOGO
-    b. CETACEI … ORTOFRUTTICOLO
-    c. UCCELLI … POMOLOGO +
-    d. DINOSAURI … MICOLOGO
-    e. MAMMIFERI … SINOLOGO
-    f. Non  lo so
+    1. GIOIELLO … FRUTTOLOGO
+    2. CETACEI … ORTOFRUTTICOLO
+    3. UCCELLI … POMOLOGO +
+    4. DINOSAURI … MICOLOGO
+    5. MAMMIFERI … SINOLOGO
+    6. Non  lo so
 12. BANALE sta a ___ come SAGGIO sta a ___
-    a. SIMPATICO … MAGNIFICO
-    b. ORDINARIO … TURBOLENTO
-    c. RARO … PRUDENTE
-    d. STRAORDINARIO … DISSIPATO +
-    e. ORIGINALE … SAGGIO
-    f. Non lo so
+    1. SIMPATICO … MAGNIFICO
+    2. ORDINARIO … TURBOLENTO
+    3. RARO … PRUDENTE
+    4. STRAORDINARIO … DISSIPATO +
+    5. ORIGINALE … SAGGIO
+    6. Non lo so
+13. TORCIA sta a ___ come PIETRA sta a ___
+    1. SOLE … SASSO
+    2. FIORE … MURO
+    3. FUOCO … ACQUA
+    4. ARTICO … PATIRE +
+    5. MONTAGNA … FALÒ
+    6. Non lo so
 14. TANGENTE sta a TOCCARE come SECANTE sta a …
-    a. Allontanare
-    b. Corrispondere
-    c. Tagliare +
-    d. Unire
-    e. Assemblare
-    f. Non lo so
+    1. Allontanare
+    2. Corrispondere
+    3. Tagliare +
+    4. Unire
+    5. Assemblare
+    6. Non lo so
 15. PRENDERE sta a ___ come ___ sta a LAVARE
-    a. DARE … STIRARE
-    b. VENDERE … DARE
-    c. VOLERE … SISTEMARE
-    d. OFFIRE … RASSETTARE
-    e. AFFERRARE … PULIRE +
-    f. Non lo so
-16.  ___ sta a MODESTO	 come PLEBEO sta a ___
-    a. MODICO … TIRANNO
-    b. VANITOSO … NOBILE +
-    c. FIORE … CAMPO
-    d. Non lo so
-18. CONFERMA sta a ACCORDO come CONNIVENZA/COMPLICITÀ sta a …
-    a. INCANTO
-    b. IMMAGINAZIONE
-    c. ASTINENZA
-    d. COLLUSIONE +
-    e. PREVALENZA
-    f. Non lo so
+    1. DARE … STIRARE
+    2. VENDERE … DARE
+    3. VOLERE … SISTEMARE
+    4. OFFIRE … RASSETTARE
+    5. AFFERRARE … PULIRE +
+    6. Non lo so
+16. ___ sta a MODESTO    come PLEBEO sta a ___
+    1. MODICO … TIRANNO
+    2. VANITOSO … NOBILE +
+    3. FIORE … CAMPO
+    4. Non lo so
+17. AVANZARE … TORNARE … RIANDARE … ___
+    1. INDIETREGGIARE
+    2. RIPETERE
+    3. INCEDERE +
+    4. RIVENIRE
+    5. REGREDIRE
+    6. Non lo so
+18. CONFERMA sta a ACCORDO come CONNIVENZA sta a …
+    1. INCANTO
+    2. IMMAGINAZIONE
+    3. ASTINENZA
+    4. COLLUSIONE +
+    5. PREVALENZA
+    6. Non lo so
 19. FILATELICO sta a TIMBRO come ___ sta a ___
-    a. FIBULANOMISTA … BANCONOTA
-    b. COLOMBOFILO … ISPETTORE
-    c. ERPETOFILO … MALATTIA
-    d. FILATELICO … LETTERE
-    e. MICOFILO … FUNGHO +++
-    f. Non lo so
+    1. FIBULANOMISTA … BANCONOTA
+    2. COLOMBOFILO … ISPETTORE
+    3. ERPETOFILO … MALATTIA
+    4. FILATELICO … LETTERE
+    5. MICOFILO … FUNGHO +++
+    6. Non lo so
 """
 
 # <codecell>
 
 # it 2
 raw_it_02="""1. ANNO sta a MESE come 
-    a. ROMANZO sta a CAPITOLO +
-    b. BISESTILE sta a ESTATE
-    c. PIETRA sta a PONTE
-    d. Non lo so
+    1. ROMANZO sta a CAPITOLO +
+    2. BISESTILE sta a ESTATE
+    3. PIETRA sta a PONTE
+    4. Non lo so
 2. AUTORE sta a REDATTORE come
-    a. ROMANZO sta a EDITORIALE +
-    b. ORAFO sta a TIPOGRAFO
-    c. LIBRO sta a VOLUME
-    d. Non lo so
-3. FRASE sta a ___ come  SCALA sta a ___ 
-    a. LIBRO ... PIANO
-    b. PAROLA ... NOTA +
-    c. DISCORSO … SONATA
-    d. Non lo so
+    1. ROMANZO sta a EDITORIALE +
+    2. ORAFO sta a TIPOGRAFO
+    3. LIBRO sta a VOLUME
+    4. Non lo so
+3. FRASE sta a ___ come  SCALA sta a ___ 
+    1. LIBRO ... PIANO
+    2. PAROLA ... NOTA +
+    3. DISCORSO … SONATA
+    4. Non lo so
 4. QUADRATO sta a RETTANGOLO come CERCHIO sta a 
-    a. SFERA
-    b. CURVA
-    c. DIAMETRO
-    d. ELLISSE +
-    e. RAGGIO
-    f. Non lo so
+    1. SFERA
+    2. CURVA
+    3. DIAMETRO
+    4. ELLISSE +
+    5. RAGGIO
+    6. Non lo so
 5. ANULARE sta a MANO come UNGHIA sta a 
-    a. DITO +
-    b. SMALTO
-    c. PELLE
-    d. TAGLIO
-    e. PELO
-    f. Non lo so
+    1. DITO +
+    2. SMALTO
+    3. PELLE
+    4. TAGLIO
+    5. PELO
+    6. Non lo so
 6. GALLINA sta a GALLO come GIUMENTA sta a
-    a. PULEDRO
-    b. ASINO
-    c. FATTORIA
-    d. PASCOLO
-    e. STALLONE +
-    f. Non lo so
+    1. PULEDRO
+    2. ASINO
+    3. FATTORIA
+    4. PASCOLO
+    5. STALLONE +
+    6. Non lo so
 7. GRAMMO sta a MASSA come ORA sta a
-    a. OROLOGIO
-    b. TEMPO +
-    c. MINUTO
-    d. SETTIMANA
-    e. STAGIONE
-    f. Non lo so
+    1. OROLOGIO
+    2. TEMPO +
+    3. MINUTO
+    4. SETTIMANA
+    5. STAGIONE
+    6. Non lo so
+8. NATICA sta a TANICA come MANICO sta a 
+    1. CAMION +
+    2. CINICO
+    3. MINIMO
+    4. TAZZA
+    5. CUCCHIAO
+    6. Non lo so
 9. FORTEZZA sta a DIFESA come TEATRO sta a …
-    a. PUBBLICO
-    b. SPETTACOLO
-    c. INTRATTENIMENTO +
-    d. COMMEDIA
-    e. ATTORE
-    f. Non lo so
+    1. PUBBLICO
+    2. SPETTACOLO
+    3. INTRATTENIMENTO +
+    4. COMMEDIA
+    5. ATTORE
+    6. Non lo so
 10. ___ sta a GESSO come TELA sta a ___
-    a. PASTELLO … BICCHIERE
-    b. LAVAGNA … PENNELLO +
-    c. PENNELLO … TEMPERA
-    d. Non lo so
+    1. PASTELLO … BICCHIERE
+    2. LAVAGNA … PENNELLO +
+    3. PENNELLO … TEMPERA
+    4. Non lo so
 11. GAMBA sta a ___ come ___ sta a PETTINE
-    a. FIORE … MANICO
-    b. ATTIVITÀ … PUNTA
-    c. CAMMINO … CAPELLO
-    d. CORSA … SPAZZOLATURA
-    e. TAVOLO … DENTE +
-    f. Non lo so
+    1. FIORE … MANICO
+    2. ATTIVITÀ … PUNTA
+    3. CAMMINO … CAPELLO
+    4. CORSA … SPAZZOLATURA
+    5. TAVOLO … DENTE +
+    6. Non lo so
 12. PELLE sta a ___ come CERVELLO sta a ___
-    a. UROLOGO … CARDIOLOGIO
-    b. DERMATOLOGO … UROLOGO
-    c. PNEUMOLOGO … CARDIOLOGO
-    d. DERMATOLOGO … NEUROLOGO +
-    e. GINECOLOGO … NEUROLOGO
-    f. Non lo so
+    1. UROLOGO … CARDIOLOGIO
+    2. DERMATOLOGO … UROLOGO
+    3. PNEUMOLOGO … CARDIOLOGO
+    4. DERMATOLOGO … NEUROLOGO +
+    5. GINECOLOGO … NEUROLOGO
+    6. Non lo so
 13. ABITARE sta a RISIEDERE come 
-    a. DISTRARRE sta a ACCOMPAGNARE
-    b. ABITARE sta a CAMBIARE
-    c. OFFRIRE sta a DONARE +
-    d. ASCIUGARE sta a STIRARE
-    e. MANGIARE sta a CORRERE
-    f. Non lo so
+    1. DISTRARRE sta a ACCOMPAGNARE
+    2. ABITARE sta a CAMBIARE
+    3. OFFRIRE sta a DONARE +
+    4. ASCIUGARE sta a STIRARE
+    5. MANGIARE sta a CORRERE
+    6. Non lo so
 14. INCISIONE sta a BISTURI come SOLCO sta a 
-    a. TRINCEA
-    b. TERRA
-    c. ARATRO +
-    d. CANALE
-    e. CAMPO
-    f. Non lo so
+    1. TRINCEA
+    2. TERRA
+    3. ARATRO +
+    4. CANALE
+    5. CAMPO
+    6. Non lo so
 15. ULIVO sta a ___ come ___ sta a PACE
-    a. ALBERO … RAGIONE
-    b. OLIO … LAVORO
-    c. PIANTA … GUERRA
-    d. SAPIENZA … COLOMBA + 
-    e. GIOIA … TRATTATO
-    f. Non lo so
+    1. ALBERO … RAGIONE
+    2. OLIO … LAVORO
+    3. PIANTA … GUERRA
+    4. SAPIENZA … COLOMBA + 
+    5. GIOIA … TRATTATO
+    6. Non lo so
 16. ___ sta a AMBASCIATORE come CAPPUCCIO sta a ___
-    a. AMBASCIATA … COLLINA
-    b. RUOLO … PESCE
-    c. PLENIPOTENZIARIO … COPERCHIO +
-    d. Non lo so
+    1. AMBASCIATA … COLLINA
+    2. RUOLO … PESCE
+    3. PLENIPOTENZIARIO … COPERCHIO +
+    4. Non lo so
 17. PERSEVERANZA / AVARIZIA
-    a. TENACIA / BONTÀ
-    b. ACCANIMENTO / DILAPIDARE
-    c. VERSATILITÀ / GENEROSITÀ +
-    d. Non lo so
+    1. TENACIA / BONTÀ
+    2. ACCANIMENTO / DILAPIDARE
+    3. VERSATILITÀ / GENEROSITÀ +
+    4. Non lo so
 18. RIGOROSO sta a INDULGENTE come GIUNONICO sta a
-    a. GRACILE +
-    b. SCIOVINISTA
-    c. CORPOSO
-    d. IRASCIBILE
-    e. CALOROSO
-    f. Non lo so
+    1. GRACILE +
+    2. SCIOVINISTA
+    3. CORPOSO
+    4. IRASCIBILE
+    5. CALOROSO
+    6. Non lo so
 19. DISPERSIONE sta a DISSIPAZIONE come 
-    a. AUMENTO sta a DIMINUZIONE
-    b. PROPENSIONE sta a INCLINAZIONE +
-    c. ACCUMULAZIONE sta a DIGESTIONE
-    d. CREAZIONE sta a GESTIONE
-    e. COMUNIONE sta a FUNZIONE
-    f. Non lo so 
+    1. AUMENTO sta a DIMINUZIONE
+    2. PROPENSIONE sta a INCLINAZIONE +
+    3. ACCUMULAZIONE sta a DIGESTIONE
+    4. CREAZIONE sta a GESTIONE
+    5. COMUNIONE sta a FUNZIONE
+    6. Non lo so 
 """
 
 # <codecell>
 
 # it 3
 raw_it_03 = """1. animale / gabbia
-    a. uomo /giardino jardin
-    b. uomo / prigione +
-    c. uomo / chiusura
-    d. non lo so
+    1. uomo /giardino jardin
+    2. uomo / prigione +
+    3. uomo / chiusura
+    4. non lo so
 2. genitori / bambini
-    a. famiglia / scuola
-    b. professori /allievi +
-    c. cugini / cugine
-    d. non lo so
+    1. famiglia / scuola
+    2. professori /allievi +
+    3. cugini / cugine
+    4. non lo so
 3. moscato / conferenza
-    a. aperitivo / imitazione
-    b. uva / pubblico +
-    c. uva / pera 
-    d. non lo so
+    1. aperitivo / imitazione
+    2. uva / pubblico +
+    3. uva / pera 
+    4. non lo so
 4. MANDATO sta a RICEVUTO come LANCIATO sta a …
-    a. Perso
-    b. Buttato
-    c. Preso +
-    d. Letto
-    e. Rotto
-    f. non lo so
+    1. Perso
+    2. Buttato
+    3. Preso +
+    4. Letto
+    5. Rotto
+    6. non lo so
 5. UVA sta a VINO come GRANO sta a…
-    a. Orzo
-    b. Pane +
-    c. Alcol
-    d. Frutta
-    e. Terra
-    f. Non lo so 
+    1. Orzo
+    2. Pane +
+    3. Alcol
+    4. Frutta
+    5. Terra
+    6. Non lo so 
 6. PICCOLO sta a GRANDE come BENEVOLO sta a …
-    a. Maldestro
-    b. Intraprendente
-    c. Temerario
-    d. Ostile +
-    e. Robusto
-    f. Non lo so
+    1. Maldestro
+    2. Intraprendente
+    3. Temerario
+    4. Ostile +
+    5. Robusto
+    6. Non lo so
 8. LETTERA sta a PAROLA come FRASE sta a …
-    a. Verbo
-    b. Interrogazione
-    c. Paragrafo +
-    d. Espressione
-    e. Libro
-    f. Non lo so
+    1. Verbo
+    2. Interrogazione
+    3. Paragrafo +
+    4. Espressione
+    5. Libro
+    6. Non lo so
 9. PESCE sta a MUTO come TALPA sta a ..
-    a. Chiacchierone
-    b. Furbo
-    c. Miope +
-    d. Dolce
-    e. Testardo
-    f. NOn lo so
+    1. Chiacchierone
+    2. Furbo
+    3. Miope +
+    4. Dolce
+    5. Testardo
+    6. NOn lo so
 10. ARTIFICIALE sta a … come … sta a PROFONDO
-    a. Pianta /Mare
-    b. Realtà / Fabbricato
-    c. Fittizio / Personale
-    d. Naturale / Superficiale +
-    e. Isola / Oceano
-    f. NOn lo so
+    1. Pianta /Mare
+    2. Realtà / Fabbricato
+    3. Fittizio / Personale
+    4. Naturale / Superficiale +
+    5. Isola / Oceano
+    6. NOn lo so
 11. CUCINARE sta a… come LAVARE sta a...
-    a. Preparare / Comprare
-    b. Guardare / Cambiare
-    c. Servire / Asciugare +
-    d. Vincere/ Smettere
-    e. Cuocere/Aggiustare
-    f. Non lo so
+    1. Preparare / Comprare
+    2. Guardare / Cambiare
+    3. Servire / Asciugare +
+    4. Vincere/ Smettere
+    5. Cuocere/Aggiustare
+    6. Non lo so
 12. ANNODARE sta a… come VINCERE sta a...
-    a. Legare/Perdere
-    b. Legare / Trionfare +
-    c. Smontare/Incassare
-    d. Capovolgere/Percepire
-    e. Nodo/Perdita
-    f. Non lo so
+    1. Legare/Perdere
+    2. Legare / Trionfare +
+    3. Smontare/Incassare
+    4. Capovolgere/Percepire
+    5. Nodo/Perdita
+    6. Non lo so
 13. GOLF / IN PIEDI, .../ …
-    a. Sci / accovacciato
-    b. Tennis / Ginocchio
-    c. Cavallo /  a cavalcioni
-    d. Nuoto / Seduto 
-    e. Scherma/ Allungato
-    f. Je ne sais pas
+    1. Sci / accovacciato +
+    2. Tennis / Ginocchio
+    3. Cavallo /  a cavalcioni
+    4. Nuoto / Seduto 
+    5. Scherma/ Allungato
+    6. Non lo so
+14. PREMIO sta a ___ come REVOCA sta a ___
+    1. IMPERO … VORACE +
+    2. VITTORIA …  NOTTE
+    3. COPPA … REGALO
+    4. SCONFITTA … CONFISCA
+    5. PRIMO … MEDAGLIA
+    6. Non lo so
 15. EMPATIA sta a .. come ANIMOSITA sta a…
-    a. Maldestro/Goia
-    b. Egoismo/Odio
-    c. Narcisismo/Antipatia
-    d. Amore/Scortese
-    e. Compassione/Ostilità +
-    f. Non lo so
+    1. Maldestro/Goia
+    2. Egoismo/Odio
+    3. Narcisismo/Antipatia
+    4. Amore/Scortese
+    5. Compassione/Ostilità +
+    6. Non lo so
 16. … sta a voce come ortofonista sta a…
-    a. direttore / rigore
-    b. timbro / paziente
-    c. foniatra / dizione +
-    d. non lo so
+    1. direttore / rigore
+    2. timbro / paziente
+    3. foniatra / dizione +
+    4. non lo so
 17. incudine / metacarpo
-    a. fabbro / dito
-    b. orecchio / palmo +
-    c. ferro / pesce
-    d. non lo so
-18. ECOLOGISTA sta a  AMBIENTE come ENTOMOLOGO sta a ..
-    a. Malattia
-    b. Virus
-    c. Biologia
-    d. Umano
-    e. Insetto +
-    f. Non lo so
+    1. fabbro / dito
+    2. orecchio / palmo +
+    3. ferro / pesce
+    4. non lo so
+18. ECOLOGISTA sta a  AMBIENTE come ENTOMOLOGO sta a ..
+    1. Malattia
+    2. Virus
+    3. Biologia
+    4. Umano
+    5. Insetto +
+    6. Non lo so
 19. VERSATILE / COSTANTE , … / …
-    a. Iniziale / Primario
-    b. Principale / Primordiale
-    c. Pragmatico / Teoretico +
-    d. Amicale / Cordiale
-    e. Ripida / Rigido
-    f. Non lo so
+    1. Iniziale / Primario
+    2. Principale / Primordiale
+    3. Pragmatico / Teoretico +
+    4. Amicale / Cordiale
+    5. Ripida / Rigido
+    6. Non lo so
 """
 
 # <codecell>
 
 # it 4
 raw_it_04 = """1. vacanze / riposo
-    a. estate / inverno
-    b. lavoro / attività +
-    c. sole / sport
-    d. non lo so
+    1. estate / inverno
+    2. lavoro / attività +
+    3. sole / sport
+    4. non lo so
 2. geologo / dermatologo
-    a. docente / medico
-    b. pietra / pelle +
-    c. geografia / specialista
-    d. non lo so
+    1. docente / medico
+    2. pietra / pelle +
+    3. geografia / specialista
+    4. non lo so
 3. pilota / navigatore
-    a. macchina / marinaio
-    b. jet / trimarano +
-    c. giornale / carta
-    d. non lo so
+    1. macchina / marinaio
+    2. jet / trimarano +
+    3. giornale / carta
+    4. non lo so
 4. CERVELLO sta a TESTA come CUORE sta a...
-    a. Vita
-    b. Torace +
-    c. Polmone
-    d. Sangue
-    e. Respirazione
-    f. Non lo so
-5. FLORA sta a VEGETALI come FAUNA sta a  ..
-    a. Piante
-    b. Floreali
-    c. Campagna
-    d. Animali +
-    e. Cibo
-    f. Non lo so
+    1. Vita
+    2. Torace +
+    3. Polmone
+    4. Sangue
+    5. Respirazione
+    6. Non lo so
+5. FLORA sta a VEGETALI come FAUNA sta a  ..
+    1. Piante
+    2. Floreali
+    3. Campagna
+    4. Animali +
+    5. Cibo
+    6. Non lo so
 6. CHILO sta a MILLE come ETTO sta a…
-    a. Cento +
-    b. Migliaia
-    c. Dieci
-    d. Millione
-    e. Mille 
-    f. Non lo so
-7. BENDA sta a FERITA come  SPAGO sta a ...
-    a. Impacchetare
-    b. Forbici
-    c. Taglio
-    d. Paquetto +
-    e. Corda
-    f. Non lo so
+    1. Cento +
+    2. Migliaia
+    3. Dieci
+    4. Millione
+    5. Mille 
+    6. Non lo so
+7. BENDA sta a FERITA come  SPAGO sta a ...
+    1. Impacchetare
+    2. Forbici
+    3. Taglio
+    4. Paquetto +
+    5. Corda
+    6. Non lo so
 8. RUOTA sta a BICI come CORDA sta a
-    a. Panno
-    b. Arco +
-    c. Spago
-    d. Saltare
-    e. Collo
-    f. Non lo so
+    1. Panno
+    2. Arco +
+    3. Spago
+    4. Saltare
+    5. Collo
+    6. Non lo so
 9. MATITA sta a SCRIVERE come METRO sta a 
-    a. INSEGNARE
-    b. MISURARE +
-    c. POSIZIONARE
-    d. DIRIGERE
-    e. DISPORRE
-    f. non lo so
-10. PEDIATRA  sta a ___ come ___ sta a PIEDE
-    a. MANO … PEDICURE
-    b. OMOLOGO … GAMBA
-    c. BAMBINO … PODOLOGO +
-    d. MEDICO … UMANO
-    e. SPECIALISTA … CORSA
-    f. Non lo so
+    1. INSEGNARE
+    2. MISURARE +
+    3. POSIZIONARE
+    4. DIRIGERE
+    5. DISPORRE
+    6. non lo so
+10. PEDIATRA  sta a ___ come ___ sta a PIEDE
+    1. MANO … PEDICURE
+    2. OMOLOGO … GAMBA
+    3. BAMBINO … PODOLOGO +
+    4. MEDICO … UMANO
+    5. SPECIALISTA … CORSA
+    6. Non lo so
+11. RIDEVO sta a ___ come TAPIRO sta a ___
+    1. CADRAI ... FORMICA
+    2. MANGIO … LANA
+    3. DOVREI … RAPITO +
+    4. DENTE … ANIMALE
+    5. GNOCCHI … RINOCERONTE
+    6. Non lo so
 12. BENESSERE sta a ___ come ORDINE sta a ___
-    a. NEGATIVO … DIFFICOLTÀ
-    b. SOFFERENZA … ANARCHIA +
-    c. ILLUSIONE … STIVAGGIO
-    d. RIPOSO … TEOCRAZIA
-    e. CURA … CAMMINO
-    f. Non lo so
+    1. NEGATIVO … DIFFICOLTÀ
+    2. SOFFERENZA … ANARCHIA +
+    3. ILLUSIONE … STIVAGGIO
+    4. RIPOSO … TEOCRAZIA
+    5. CURA … CAMMINO
+    6. Non lo so
 13. SCRITTORE sta a ROMANZO come 
-    a. CANTANTE sta a MUSICA
-    b. MUSICISTA sta a PAROLA
-    c. INTERPRETE sta a PARTIZIONE
-    d. COREOGRAFO sta a CANZONE
-    e. COMPOSITORE sta a MELODIA +
-    f. Non lo so
+    1. CANTANTE sta a MUSICA
+    2. MUSICISTA sta a PAROLA
+    3. INTERPRETE sta a PARTIZIONE
+    4. COREOGRAFO sta a CANZONE
+    5. COMPOSITORE sta a MELODIA +
+    6. Non lo so
 14. BELLICOSO sta a … come .. sta a PACIFICO
-    a. Dolce / Calmo
-    b. Tranquillo / Violente +
-    c. Pericoloso / Spaventoso
-    d. Forte / Rischioso
-    e. Agitato / Lontano 
-    f. Non lo so
+    1. Dolce / Calmo
+    2. Tranquillo / Violento +
+    3. Pericoloso / Spaventoso
+    4. Forte / Rischioso
+    5. Agitato / Lontano 
+    6. Non lo so
 15. LIVIDO sta a … come CARNOSO sta a ...
-    a. Esangue/ Grassoccio +
-    b. Vivo/ Paffuto
-    c. Abitabile/ Piacevole
-    d. Completo/Gradevole
-    e. Disocupato/Tagliente
-    f. Non lo so
-16. … sta a claustrofobico come arrossito sta a  …
-    a. chisusura / timidezza
-    b. ascensore/ eritrofobia+
-    c. paura / angoscia
-    d. non lo so 
+    1. Esangue/ Grassoccio +
+    2. Vivo/ Paffuto
+    3. Abitabile/ Piacevole
+    4. Completo/Gradevole
+    5. Disocupato/Tagliente
+    6. Non lo so
+16. … sta a claustrofobico come arrossito sta a  …
+    1. chisusura / timidezza
+    2. ascensore/ eritrofobia+
+    3. paura / angoscia
+    4. non lo so 
 17. piuma / lana
-    a. uccello / tricot
-    b. piumino / bourre +
-    c. cappello / brin
-    d. je ne sais pas
+    1. uccello / calza
+    2. piumino / maglione +
+    3. cappello / filo
+    4. Non lo so
 18. ATEO sta a CREDENZA come INDIGENTE sta a ..
-    a. SOLDI +
-    b. Dignità
-    c. Capo
-    d. Ambizione 
-    e. Origine
-    f. Non lo so 
+    1. SOLDI +
+    2. Dignità
+    3. Capo
+    4. Ambizione 
+    5. Origine
+    6. Non lo so 
 19. INFIDO / INSIDIOSO , … / ....
-    a. Pittoresco / Originale +
-    b. Grande / Minuscolo
-    c. Giocatore / Arbitro
-    d. Cielo / Nuvola
-    e. Acqua / Bottiglia
-    f. Non lo so
+    1. Pittoresco / Originale +
+    2. Grande / Minuscolo
+    3. Giocatore / Arbitro
+    4. Cielo / Nuvola
+    5. Acqua / Bottiglia
+    6. Non lo so
 """
 
 # <codecell>
@@ -1020,19 +1055,11 @@ raws = {
 
 # <codecell>
 
-
-
-# <codecell>
-
 question_type = 'ct'
 for language, questions in raws.items():
     for _id, q in enumerate(questions):
         with open(f'../data/{question_type}_{language}_{_id + 1:0>2}.json', 'w') as f:
             json.dump(parse_questions(q, 'ct', f"{language}_{_id + 1}_"), f, ensure_ascii=False, indent='  ')
-
-# <codecell>
-
-ls ../data/
 
 # <codecell>
 

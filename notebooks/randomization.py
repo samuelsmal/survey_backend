@@ -7,6 +7,10 @@ import numpy as np
 
 # <codecell>
 
+__N_USERS__ = 100
+
+# <codecell>
+
 list(range(1, 5))
 
 # <codecell>
@@ -39,7 +43,7 @@ def user_task(user_id, ct_tasks=__CT_TASK_ORDER__, dt_tasks=__DT_TASK_ORDER__, m
 # <codecell>
 
 np.random.seed(42)
-assignments = [user_task(i) for i in generate_user_ids(10)]
+assignments = [user_task(i) for i in generate_user_ids(__N_USERS__)]
 
 # <codecell>
 
@@ -59,21 +63,14 @@ with open('../data/user_assigments.json', 'w') as f:
 
 # <codecell>
 
-ls ../data/
+assert np.unique([get_key(d) for d in assignments]).shape[0] == __N_USERS__
 
 # <codecell>
 
-!head ../data/dt_en.json
+# for adding them to the google sheet
+for d in assignments:
+    print(str(get_key(d)))
 
 # <codecell>
 
-dt = {}
 
-for l in ['fr', 'it', 'en']:
-    with open('../data/dt_fr.json', 'r') as f:
-        dt[l] = json.load(f)
-
-# <codecell>
-
-for k, v in dt.items():
-    print(len(v))
