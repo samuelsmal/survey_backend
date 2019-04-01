@@ -7,7 +7,7 @@ import numpy as np
 
 # <codecell>
 
-__N_USERS__ = 100
+__N_USERS__ = 120
 
 # <codecell>
 
