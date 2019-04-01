@@ -51,7 +51,7 @@ def submitUserData(api_token):
     user_file = pathlib.Path(user_file_path)
     user_file.parent.mkdir(parents=True, exist_ok=True)
 
-    print(f"submitUserData getting {request.json}\n\n")
+    #print(f"submitUserData getting {request.json}\n\n")
 
     payload = [{'api_token': api_token, 'data': request.json}]
 
