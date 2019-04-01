@@ -802,6 +802,13 @@ raw_it_03 = """1. animale / gabbia
     4. Ostile +
     5. Robusto
     6. Non lo so
+7. PROSA sta ad ASPRO come CARIE sta a ...
+    1. Dente
+    2. Prato
+    3. Aceri
+    4. Dolore
+    5. Cera
+    6. Non lo so
 8. LETTERA sta a PAROLA come FRASE sta a …
     1. Verbo
     2. Interrogazione

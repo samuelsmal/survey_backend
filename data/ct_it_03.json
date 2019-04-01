@@ -4,19 +4,19 @@
     "question": "animale / gabbia",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "uomo /giardino jardin"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "uomo / prigione"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "uomo / chiusura"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
     ]
@@ -26,19 +26,19 @@
     "question": "genitori / bambini",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "famiglia / scuola"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "professori /allievi"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "cugini / cugine"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
     ]
@@ -48,19 +48,19 @@
     "question": "moscato / conferenza",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "aperitivo / imitazione"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "uva / pubblico"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "uva / pera"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
     ]
@@ -70,27 +70,27 @@
     "question": "MANDATO sta a RICEVUTO come LANCIATO sta a …",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Perso"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Buttato"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Preso"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Letto"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Rotto"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "non lo so"
       }
     ]
@@ -100,27 +100,27 @@
     "question": "UVA sta a VINO come GRANO sta a…",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Orzo"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Pane"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Alcol"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Frutta"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Terra"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
     ]
@@ -130,27 +130,57 @@
     "question": "PICCOLO sta a GRANDE come BENEVOLO sta a …",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Maldestro"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Intraprendente"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Temerario"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Ostile"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Robusto"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
+        "answer": "Non lo so"
+      }
+    ]
+  },
+  {
+    "id": "it_3__ct_7",
+    "question": "PROSA sta ad ASPRO come CARIE sta a ...",
+    "possible_answers": [
+      {
+        "id": "it_3__ct_answer_1",
+        "answer": "Dente"
+      },
+      {
+        "id": "it_3__ct_answer_2",
+        "answer": "Prato"
+      },
+      {
+        "id": "it_3__ct_answer_3",
+        "answer": "Aceri"
+      },
+      {
+        "id": "it_3__ct_answer_4",
+        "answer": "Dolore"
+      },
+      {
+        "id": "it_3__ct_answer_5",
+        "answer": "Cera"
+      },
+      {
+        "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
     ]
@@ -160,27 +190,27 @@
     "question": "LETTERA sta a PAROLA come FRASE sta a …",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Verbo"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Interrogazione"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Paragrafo"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Espressione"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Libro"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
     ]
@@ -190,27 +220,27 @@
     "question": "PESCE sta a MUTO come TALPA sta a ..",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Chiacchierone"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Furbo"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Miope"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Dolce"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Testardo"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "NOn lo so"
       }
     ]
@@ -220,27 +250,27 @@
     "question": "ARTIFICIALE sta a … come … sta a PROFONDO",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Pianta /Mare"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Realtà / Fabbricato"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Fittizio / Personale"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Naturale / Superficiale"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Isola / Oceano"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "NOn lo so"
       }
     ]
@@ -250,27 +280,27 @@
     "question": "CUCINARE sta a… come LAVARE sta a...",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Preparare / Comprare"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Guardare / Cambiare"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Servire / Asciugare"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Vincere/ Smettere"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Cuocere/Aggiustare"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
     ]
@@ -280,27 +310,27 @@
     "question": "ANNODARE sta a… come VINCERE sta a...",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Legare/Perdere"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Legare / Trionfare"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Smontare/Incassare"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Capovolgere/Percepire"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Nodo/Perdita"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
     ]
@@ -310,28 +340,58 @@
     "question": "GOLF / IN PIEDI, .../ …",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Sci / accovacciato"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Tennis / Ginocchio"
       },
       {
-        "id": "it_3__ct_answer_c",
-        "answer": "Cavallo /  a cavalcioni"
+        "id": "it_3__ct_answer_3",
+        "answer": "Cavallo /  a cavalcioni"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Nuoto / Seduto"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Scherma/ Allungato"
       },
       {
-        "id": "it_3__ct_answer_f",
-        "answer": "Je ne sais pas"
+        "id": "it_3__ct_answer_6",
+        "answer": "Non lo so"
+      }
+    ]
+  },
+  {
+    "id": "it_3__ct_14",
+    "question": "PREMIO sta a ___ come REVOCA sta a ___",
+    "possible_answers": [
+      {
+        "id": "it_3__ct_answer_1",
+        "answer": "IMPERO … VORACE"
+      },
+      {
+        "id": "it_3__ct_answer_2",
+        "answer": "VITTORIA …  NOTTE"
+      },
+      {
+        "id": "it_3__ct_answer_3",
+        "answer": "COPPA … REGALO"
+      },
+      {
+        "id": "it_3__ct_answer_4",
+        "answer": "SCONFITTA … CONFISCA"
+      },
+      {
+        "id": "it_3__ct_answer_5",
+        "answer": "PRIMO … MEDAGLIA"
+      },
+      {
+        "id": "it_3__ct_answer_6",
+        "answer": "Non lo so"
       }
     ]
   },
@@ -340,27 +400,27 @@
     "question": "EMPATIA sta a .. come ANIMOSITA sta a…",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Maldestro/Goia"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Egoismo/Odio"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Narcisismo/Antipatia"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Amore/Scortese"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Compassione/Ostilità"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
     ]
@@ -370,19 +430,19 @@
     "question": "… sta a voce come ortofonista sta a…",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "direttore / rigore"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "timbro / paziente"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "foniatra / dizione"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
     ]
@@ -392,49 +452,49 @@
     "question": "incudine / metacarpo",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "fabbro / dito"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "orecchio / palmo"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "ferro / pesce"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
     ]
   },
   {
     "id": "it_3__ct_18",
-    "question": "ECOLOGISTA sta a  AMBIENTE come ENTOMOLOGO sta a ..",
+    "question": "ECOLOGISTA sta a  AMBIENTE come ENTOMOLOGO sta a ..",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Malattia"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Virus"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Biologia"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Umano"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Insetto"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
     ]
@@ -444,27 +504,27 @@
     "question": "VERSATILE / COSTANTE , … / …",
     "possible_answers": [
       {
-        "id": "it_3__ct_answer_a",
+        "id": "it_3__ct_answer_1",
         "answer": "Iniziale / Primario"
       },
       {
-        "id": "it_3__ct_answer_b",
+        "id": "it_3__ct_answer_2",
         "answer": "Principale / Primordiale"
       },
       {
-        "id": "it_3__ct_answer_c",
+        "id": "it_3__ct_answer_3",
         "answer": "Pragmatico / Teoretico"
       },
       {
-        "id": "it_3__ct_answer_d",
+        "id": "it_3__ct_answer_4",
         "answer": "Amicale / Cordiale"
       },
       {
-        "id": "it_3__ct_answer_e",
+        "id": "it_3__ct_answer_5",
         "answer": "Ripida / Rigido"
       },
       {
-        "id": "it_3__ct_answer_f",
+        "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
     ]
