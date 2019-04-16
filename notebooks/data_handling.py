@@ -8,7 +8,11 @@ import numpy as np
 
 # <codecell>
 
-user_id = "1010"
+ls ../data/additional_data/
+
+# <codecell>
+
+user_id = "1613"
 
 # <codecell>
 
@@ -44,53 +48,10 @@ answers[['question_id', 'answer', 'timestamp']] = pd.DataFrame(answers.data.valu
 
 # <codecell>
 
-answers
+from datetime import datetime
 
-# <codecell>
-
-json_normalize(answers[0], 'data', ['api_token'])
+answers['timestamp'] = answers['timestamp'].apply(lambda x: datetime.utcfromtimestamp(x / 1000).strftime('%Y-%m-%d %H:%M:%S'))
 
 # <codecell>
 
 answers
-
-# <codecell>
-
-answers = pd.DataFrame(answers)
-
-# <codecell>
-
-
-
-# <codecell>
-
-additional_data
-
-# <codecell>
-
-ls ../data/additional_data/
-
-# <codecell>
-
-!rm ../data/answers/*
-!rm ../data/additional_data/*
-
-# <codecell>
-
-cat ../data/additional_data/1010.json
-
-# <codecell>
-
-data
-
-# <codecell>
-
-
-
-# <codecell>
-
-data[-1]
-
-# <codecell>
-
-

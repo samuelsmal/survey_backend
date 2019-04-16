@@ -4,14 +4,20 @@
 # <codecell>
 
 import numpy as np
+import json
 
 # <codecell>
 
-__N_USERS__ = 120
+__N_USERS__ = 220
 
 # <codecell>
 
-list(range(1, 5))
+with open('../data/user_assigments.json', 'r') as f:
+    previous_assignments = json.load(f)
+
+# <codecell>
+
+previous_assignments
 
 # <codecell>
 
@@ -68,7 +74,7 @@ assert np.unique([get_key(d) for d in assignments]).shape[0] == __N_USERS__
 # <codecell>
 
 # for adding them to the google sheet
-for d in assignments:
+for d in assignments[120:]:
     print(str(get_key(d)))
 
 # <codecell>
