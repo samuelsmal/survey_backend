@@ -1048,6 +1048,8 @@ def parse_questions(raw, question_type, q_id):
             match = re.match(answer_regex, l)
             cur_question['possible_answers'] += [{'id': f"{q_id}_{question_type}_answer_{match[1]}",
                                                   'answer': match[2].split('+')[0].strip()}]
+            if '+' in l:
+                cur_question['correct_answer'] = f"{q_id}_{question_type}_answer_{match[1]}"
 
     questions += [cur_question]
     
@@ -1070,7 +1072,7 @@ for language, questions in raws.items():
 
 # <codecell>
 
-!head -n10 ../data/ct_fr_01.json
+!head -n30 ../data/ct_fr_01.json
 
 # <codecell>
 

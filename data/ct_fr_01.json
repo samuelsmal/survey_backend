@@ -19,7 +19,8 @@
         "id": "fr_1__ct_answer_4",
         "answer": "je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_2"
   },
   {
     "id": "fr_1__ct_2",
@@ -41,7 +42,8 @@
         "id": "fr_1__ct_answer_4",
         "answer": "je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_3"
   },
   {
     "id": "fr_1__ct_3",
@@ -63,7 +65,8 @@
         "id": "fr_1__ct_answer_4",
         "answer": "je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_2"
   },
   {
     "id": "fr_1__ct_4",
@@ -93,7 +96,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_5"
   },
   {
     "id": "fr_1__ct_5",
@@ -123,7 +127,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_1"
   },
   {
     "id": "fr_1__ct_6",
@@ -153,7 +158,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_5"
   },
   {
     "id": "fr_1__ct_7",
@@ -183,7 +189,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_1"
   },
   {
     "id": "fr_1__ct_8",
@@ -213,7 +220,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_5"
   },
   {
     "id": "fr_1__ct_9",
@@ -243,7 +251,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_4"
   },
   {
     "id": "fr_1__ct_10",
@@ -265,7 +274,8 @@
         "id": "fr_1__ct_answer_4",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_3"
   },
   {
     "id": "fr_1__ct_11",
@@ -295,7 +305,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_3"
   },
   {
     "id": "fr_1__ct_12",
@@ -325,7 +336,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_4"
   },
   {
     "id": "fr_1__ct_13",
@@ -355,7 +367,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_4"
   },
   {
     "id": "fr_1__ct_14",
@@ -385,7 +398,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_3"
   },
   {
     "id": "fr_1__ct_15",
@@ -415,7 +429,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_5"
   },
   {
     "id": "fr_1__ct_16",
@@ -437,7 +452,8 @@
         "id": "fr_1__ct_answer_4",
         "answer": "je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_2"
   },
   {
     "id": "fr_1__ct_17",
@@ -459,7 +475,8 @@
         "id": "fr_1__ct_answer_4",
         "answer": "je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_2"
   },
   {
     "id": "fr_1__ct_18",
@@ -489,7 +506,8 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_4"
   },
   {
     "id": "fr_1__ct_19",
@@ -519,6 +537,7 @@
         "id": "fr_1__ct_answer_6",
         "answer": "Je ne sais pas"
       }
-    ]
+    ],
+    "correct_answer": "fr_1__ct_answer_5"
   }
 ]

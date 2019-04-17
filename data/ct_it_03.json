@@ -19,7 +19,8 @@
         "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_2"
   },
   {
     "id": "it_3__ct_2",
@@ -41,7 +42,8 @@
         "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_2"
   },
   {
     "id": "it_3__ct_3",
@@ -63,7 +65,8 @@
         "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_2"
   },
   {
     "id": "it_3__ct_4",
@@ -93,7 +96,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_3"
   },
   {
     "id": "it_3__ct_5",
@@ -123,7 +127,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_2"
   },
   {
     "id": "it_3__ct_6",
@@ -153,7 +158,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_4"
   },
   {
     "id": "it_3__ct_7",
@@ -213,7 +219,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_3"
   },
   {
     "id": "it_3__ct_9",
@@ -243,7 +250,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "NOn lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_3"
   },
   {
     "id": "it_3__ct_10",
@@ -273,7 +281,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "NOn lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_4"
   },
   {
     "id": "it_3__ct_11",
@@ -303,7 +312,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_3"
   },
   {
     "id": "it_3__ct_12",
@@ -333,7 +343,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_2"
   },
   {
     "id": "it_3__ct_13",
@@ -363,7 +374,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_1"
   },
   {
     "id": "it_3__ct_14",
@@ -393,7 +405,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_1"
   },
   {
     "id": "it_3__ct_15",
@@ -423,7 +436,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_5"
   },
   {
     "id": "it_3__ct_16",
@@ -445,7 +459,8 @@
         "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_3"
   },
   {
     "id": "it_3__ct_17",
@@ -467,7 +482,8 @@
         "id": "it_3__ct_answer_4",
         "answer": "non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_2"
   },
   {
     "id": "it_3__ct_18",
@@ -497,7 +513,8 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_5"
   },
   {
     "id": "it_3__ct_19",
@@ -527,6 +544,7 @@
         "id": "it_3__ct_answer_6",
         "answer": "Non lo so"
       }
-    ]
+    ],
+    "correct_answer": "it_3__ct_answer_3"
   }
 ]
