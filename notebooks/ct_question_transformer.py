@@ -549,7 +549,7 @@ raw_it_01="""1. pianura : montagna
     5. Albero +
     6. Non lo so
 7. CAMICIA sta a TESSUTO come PNEUMATICO sta a …
-    1. Gomma
+    1. Gomma +
     2. Catrame
     3. Guida
     4. Strada
@@ -805,7 +805,7 @@ raw_it_03 = """1. animale / gabbia
 7. PROSA sta ad ASPRO come CARIE sta a ...
     1. Dente
     2. Prato
-    3. Aceri
+    3. Aceri +
     4. Dolore
     5. Cera
     6. Non lo so
@@ -995,7 +995,7 @@ raw_it_04 = """1. vacanze / riposo
     6. Non lo so
 16. … sta a claustrofobico come arrossito sta a  …
     1. chisusura / timidezza
-    2. ascensore/ eritrofobia+
+    2. ascensore/ eritrofobia +
     3. paura / angoscia
     4. non lo so 
 17. piuma / lana
